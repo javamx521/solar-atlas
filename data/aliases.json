@@ -1,0 +1,978 @@
+{
+  "ranger-7": {
+    "full": "paihuaizhehao",
+    "initials": "phz"
+  },
+  "mariner-3": {
+    "full": "shuishouhao",
+    "initials": "ss"
+  },
+  "mariner-4": {
+    "full": "shuishouhao",
+    "initials": "ss"
+  },
+  "surveyor-1": {
+    "full": "kancezhehao",
+    "initials": "kcz"
+  },
+  "lunar-orbiter-1": {
+    "full": "yueqiuguidaoqihao",
+    "initials": "yqgdq"
+  },
+  "mariner-5": {
+    "full": "shuishouhao",
+    "initials": "ss"
+  },
+  "mariner-6": {
+    "full": "shuishouhao",
+    "initials": "ss"
+  },
+  "mariner-7": {
+    "full": "shuishouhao",
+    "initials": "ss"
+  },
+  "mariner-8": {
+    "full": "shuishouhao",
+    "initials": "ss"
+  },
+  "mariner-9": {
+    "full": "shuishouhao",
+    "initials": "ss"
+  },
+  "viking-1": {
+    "full": "weijinghao",
+    "initials": "wj"
+  },
+  "viking-2": {
+    "full": "weijinghao",
+    "initials": "wj"
+  },
+  "pioneer-11": {
+    "full": "xianquzhehao",
+    "initials": "xqz"
+  },
+  "mariner-10": {
+    "full": "shuishouhao",
+    "initials": "ss"
+  },
+  "pioneer-venus-orbiter": {
+    "full": "xianquzhejinxingguidaoqi",
+    "initials": "xqzjxgdq"
+  },
+  "pioneer-venus-multiprobe": {
+    "full": "xianquzhejinxingduotanceqi",
+    "initials": "xqzjxdtcq"
+  },
+  "iras": {
+    "full": "hongwaitianwenweixing",
+    "initials": "hwtwwx"
+  },
+  "magellan": {
+    "full": "maizhelunhao",
+    "initials": "mzlh"
+  },
+  "cobe": {
+    "full": "yuzhoubeijingtanceqi",
+    "initials": "yzbjcq"
+  },
+  "ulysses": {
+    "full": "youlixisihao",
+    "initials": "ylxs"
+  },
+  "compton-gro": {
+    "full": "kangpudunjiamashexiantianwentai",
+    "initials": "kpjmsxwt"
+  },
+  "mars-observer": {
+    "full": "huoxingguanchazhehao",
+    "initials": "hgczh"
+  },
+  "clementine": {
+    "full": "kelaimentinghao",
+    "initials": "klmth"
+  },
+  "near-shoemaker": {
+    "full": "nearshumeikehao",
+    "initials": "nsmkh"
+  },
+  "mars-pathfinder": {
+    "full": "huoxingtanluzhehao",
+    "initials": "htlzh"
+  },
+  "mars-global-surveyor": {
+    "full": "huoxingquanqiukancezhehao",
+    "initials": "hqqkczh"
+  },
+  "lunar-prospector": {
+    "full": "yueqiukantanzhehao",
+    "initials": "yqktzh"
+  },
+  "mars-climate-orbiter": {
+    "full": "huoxingqihouguidaoqi",
+    "initials": "hqhgdq"
+  },
+  "deep-space-1": {
+    "full": "shenkonghao",
+    "initials": "sk"
+  },
+  "mars-polar-lander": {
+    "full": "huoxingjidezheluqi",
+    "initials": "hjdzlq"
+  },
+  "stardust": {
+    "full": "xingchenhao",
+    "initials": "xch"
+  },
+  "genesis": {
+    "full": "chuangshijihao",
+    "initials": "csj"
+  },
+  "wmap": {
+    "full": "weierjinsenweibogexiangyixingtanceqi",
+    "initials": "wejsbgxyxtcq"
+  },
+  "mars-odyssey": {
+    "full": "huoxingaodesaihao",
+    "initials": "hadsh"
+  },
+  "contour": {
+    "full": "lunkuohao",
+    "initials": "lkh"
+  },
+  "opportunity": {
+    "full": "jiyuhao",
+    "initials": "jh"
+  },
+  "spitzer": {
+    "full": "sipicekongjianwangyuanjing",
+    "initials": "skwyj"
+  },
+  "messenger": {
+    "full": "xinshihao",
+    "initials": "xsh"
+  },
+  "swift": {
+    "full": "yuyantianwentai",
+    "initials": "yytwt"
+  },
+  "deep-impact": {
+    "full": "shenduzhuangjihao",
+    "initials": "sdzjh"
+  },
+  "mars-reconnaissance-orbiter": {
+    "full": "huoxingkanceguidaoqi",
+    "initials": "hkcgdq"
+  },
+  "dawn": {
+    "full": "liminghao",
+    "initials": "lmh"
+  },
+  "phoenix": {
+    "full": "fenghuanghao",
+    "initials": "fhh"
+  },
+  "ibex": {
+    "full": "xingjibianjietanceqi",
+    "initials": "xjbjtcq"
+  },
+  "fermi": {
+    "full": "feimijiamashexiankongjianwangyuanjing",
+    "initials": "fmjmsxwyj"
+  },
+  "wise": {
+    "full": "guangyuhongwaixuntiantanceqi",
+    "initials": "gyhwxttcq"
+  },
+  "lro": {
+    "full": "yueqiukanceguidaoqi",
+    "initials": "yqkcgdq"
+  },
+  "lcross": {
+    "full": "yueqiukengguanceyuchuanganweixing",
+    "initials": "yqkgcycgwx"
+  },
+  "sdo": {
+    "full": "taiyangdonglixuetianwentai",
+    "initials": "tydlxtwt"
+  },
+  "grail": {
+    "full": "zhonglihuifuyuneibushiyanshi",
+    "initials": "zlhfynbsys"
+  },
+  "nustar": {
+    "full": "hefenguangwangyuanjingzhenlie",
+    "initials": "hgwyjzl"
+  },
+  "maven": {
+    "full": "huoxingdaqiyuhuifawuyanhuatanceqi",
+    "initials": "hdqyhfwhtcq"
+  },
+  "ladee": {
+    "full": "yueqiudaqiyuchenaihuanjingtanceqi",
+    "initials": "yqdqycahtcq"
+  },
+  "osiris-rex": {
+    "full": "osirisrex",
+    "initials": "or"
+  },
+  "insight": {
+    "full": "dongchahao",
+    "initials": "dch"
+  },
+  "parker-solar-probe": {
+    "full": "paketaiyangtanceqi",
+    "initials": "pktytcq"
+  },
+  "tess": {
+    "full": "lingrixiwaixingxingxuntianweixing",
+    "initials": "lrxxxxtwx"
+  },
+  "perseverance": {
+    "full": "yilihao",
+    "initials": "ylh"
+  },
+  "lucy": {
+    "full": "luxihao",
+    "initials": "lxh"
+  },
+  "psyche": {
+    "full": "lingshenxinghao",
+    "initials": "lsxh"
+  },
+  "europa-clipper": {
+    "full": "ouluobakuaichuan",
+    "initials": "olbkc"
+  },
+  "spherex": {
+    "full": "spherex",
+    "initials": "s"
+  },
+  "punch": {
+    "full": "punch",
+    "initials": "p"
+  },
+  "imap": {
+    "full": "xingjicehuiyujiasutanceqi",
+    "initials": "xjchyjstcq"
+  },
+  "mercury-redstone-4": {
+    "full": "shuixinghongshihaoziyouzhonghao",
+    "initials": "sxhszyz"
+  },
+  "mercury-atlas-6": {
+    "full": "shuixingdalishenhaoyouyihao",
+    "initials": "sxdlsyy"
+  },
+  "mercury-atlas-7": {
+    "full": "shuixingdalishenhaojiguanghao",
+    "initials": "sxdlsjg"
+  },
+  "mercury-atlas-8": {
+    "full": "shuixingdalishenhaoxigemahao",
+    "initials": "sxdlsxg"
+  },
+  "mercury-atlas-9": {
+    "full": "shuixingdalishenhaoxinyanghao",
+    "initials": "sxdlsxy"
+  },
+  "gemini-3": {
+    "full": "shuangzixinghaomolibulang",
+    "initials": "szxmlbl"
+  },
+  "gemini-5": {
+    "full": "shuangzixinghao",
+    "initials": "szx"
+  },
+  "gemini-6a": {
+    "full": "shuangzixingahao",
+    "initials": "szxh"
+  },
+  "gemini-7": {
+    "full": "shuangzixinghao",
+    "initials": "szx"
+  },
+  "gemini-8": {
+    "full": "shuangzixinghao",
+    "initials": "szx"
+  },
+  "gemini-9a": {
+    "full": "shuangzixingahao",
+    "initials": "szxh"
+  },
+  "gemini-10": {
+    "full": "shuangzixinghao",
+    "initials": "szx"
+  },
+  "gemini-11": {
+    "full": "shuangzixinghao",
+    "initials": "szx"
+  },
+  "gemini-12": {
+    "full": "shuangzixinghao",
+    "initials": "szx"
+  },
+  "apollo-7": {
+    "full": "aboluohao",
+    "initials": "abl"
+  },
+  "apollo-8": {
+    "full": "aboluohao",
+    "initials": "abl"
+  },
+  "apollo-9": {
+    "full": "aboluohao",
+    "initials": "abl"
+  },
+  "apollo-10": {
+    "full": "aboluohao",
+    "initials": "abl"
+  },
+  "apollo-11": {
+    "full": "aboluohao",
+    "initials": "abl"
+  },
+  "apollo-12": {
+    "full": "aboluohao",
+    "initials": "abl"
+  },
+  "apollo-13": {
+    "full": "aboluohao",
+    "initials": "abl"
+  },
+  "apollo-14": {
+    "full": "aboluohao",
+    "initials": "abl"
+  },
+  "apollo-15": {
+    "full": "aboluohao",
+    "initials": "abl"
+  },
+  "apollo-16": {
+    "full": "aboluohao",
+    "initials": "abl"
+  },
+  "apollo-17": {
+    "full": "aboluohao",
+    "initials": "abl"
+  },
+  "skylab-2": {
+    "full": "tiankongshiyanshihao",
+    "initials": "tkys"
+  },
+  "skylab-3": {
+    "full": "tiankongshiyanshihao",
+    "initials": "tkys"
+  },
+  "skylab-4": {
+    "full": "tiankongshiyanshihao",
+    "initials": "tkys"
+  },
+  "apollo-soyuz": {
+    "full": "aboluolianmengceshijihua",
+    "initials": "abllmcsjh"
+  },
+  "sts-31": {
+    "full": "stsfaxianhao",
+    "initials": "sfxh"
+  },
+  "sts-51-l": {
+    "full": "stsltiaozhanzhehao",
+    "initials": "sltzzh"
+  },
+  "sts-26": {
+    "full": "stsfaxianhao",
+    "initials": "sfxh"
+  },
+  "sts-61": {
+    "full": "stsfenjinhao",
+    "initials": "sfjh"
+  },
+  "sts-95": {
+    "full": "stsfaxianhao",
+    "initials": "sfxh"
+  },
+  "sts-107": {
+    "full": "stsgelunbiyahao",
+    "initials": "sglbyh"
+  },
+  "sts-135": {
+    "full": "stsyatelandisihao",
+    "initials": "sytds"
+  },
+  "vostok-2": {
+    "full": "dongfanghao",
+    "initials": "df"
+  },
+  "vostok-3": {
+    "full": "dongfanghao",
+    "initials": "df"
+  },
+  "vostok-4": {
+    "full": "dongfanghao",
+    "initials": "df"
+  },
+  "vostok-5": {
+    "full": "dongfanghao",
+    "initials": "df"
+  },
+  "voskhod-1": {
+    "full": "shangshenghao",
+    "initials": "ss"
+  },
+  "soyuz-1": {
+    "full": "lianmenghao",
+    "initials": "lm"
+  },
+  "soyuz-4": {
+    "full": "lianmenghao",
+    "initials": "lm"
+  },
+  "soyuz-5": {
+    "full": "lianmenghao",
+    "initials": "lm"
+  },
+  "soyuz-9": {
+    "full": "lianmenghao",
+    "initials": "lm"
+  },
+  "soyuz-11": {
+    "full": "lianmenghao",
+    "initials": "lm"
+  },
+  "salyut-4": {
+    "full": "lipaohao",
+    "initials": "l"
+  },
+  "kvant-1": {
+    "full": "liangzihaohepinghaocangduan",
+    "initials": "lzhphcd"
+  },
+  "soyuz-tm-31": {
+    "full": "lianmengtm",
+    "initials": "lmt"
+  },
+  "soyuz-ms-10": {
+    "full": "lianmengms",
+    "initials": "lmm"
+  },
+  "soyuz-ms-28": {
+    "full": "lianmengms",
+    "initials": "lmm"
+  },
+  "soyuz-ms-29": {
+    "full": "lianmengms",
+    "initials": "lmm"
+  },
+  "unity": {
+    "full": "tuanjiehaojiediancang",
+    "initials": "tjhjd"
+  },
+  "zvezda": {
+    "full": "xingchenhaofuwucang",
+    "initials": "xchfwc"
+  },
+  "destiny": {
+    "full": "mingyunhaoshiyancang",
+    "initials": "myhsyc"
+  },
+  "nauka": {
+    "full": "kexuehaoshiyancang",
+    "initials": "kxhsyc"
+  },
+  "dongfanghong-1": {
+    "full": "dongfanghongyihao",
+    "initials": "dfyh"
+  },
+  "shijian-1": {
+    "full": "shijianyihao",
+    "initials": "sjyh"
+  },
+  "fsw-0-1": {
+    "full": "fanhuishiweixinglinghaoyihaoxing",
+    "initials": "fhswxlhyhx"
+  },
+  "fengyun-1a": {
+    "full": "fengyunyihaoa",
+    "initials": "fyyha"
+  },
+  "fengyun-2a": {
+    "full": "fengyunerhaoa",
+    "initials": "fyeha"
+  },
+  "shijian-5": {
+    "full": "shijianwuhao",
+    "initials": "sjwh"
+  },
+  "shenzhou-1": {
+    "full": "shenzhouyihao",
+    "initials": "szyh"
+  },
+  "beidou-1a": {
+    "full": "beidouyihaoa",
+    "initials": "bdyha"
+  },
+  "shenzhou-2": {
+    "full": "shenzhouerhao",
+    "initials": "szeh"
+  },
+  "shenzhou-3": {
+    "full": "shenzhousanhao",
+    "initials": "szsh"
+  },
+  "shenzhou-4": {
+    "full": "shenzhousihao",
+    "initials": "szsh"
+  },
+  "shenzhou-6": {
+    "full": "shenzhouliuhao",
+    "initials": "szlh"
+  },
+  "compass-m1": {
+    "full": "beidouerhaoshouxingcompassm",
+    "initials": "bdehsxcm"
+  },
+  "tianlian-1": {
+    "full": "tianlianyihaoxing",
+    "initials": "tlyh"
+  },
+  "fengyun-3a": {
+    "full": "fengyunsanhaoa",
+    "initials": "fysha"
+  },
+  "shenzhou-7": {
+    "full": "shenzhouqihao",
+    "initials": "szqh"
+  },
+  "change-2": {
+    "full": "changeerhao",
+    "initials": "ceeh"
+  },
+  "tiangong-1": {
+    "full": "tiangongyihao",
+    "initials": "tgyh"
+  },
+  "shenzhou-8": {
+    "full": "shenzhoubahao",
+    "initials": "szbh"
+  },
+  "shenzhou-9": {
+    "full": "shenzhoujiuhao",
+    "initials": "szjh"
+  },
+  "shenzhou-10": {
+    "full": "shenzhoushihao",
+    "initials": "szsh"
+  },
+  "gaofen-1": {
+    "full": "gaofenyihao",
+    "initials": "gfyh"
+  },
+  "change-5t1": {
+    "full": "changewuhaot",
+    "initials": "cewht"
+  },
+  "dampe": {
+    "full": "wukonghao",
+    "initials": "wk"
+  },
+  "shijian-10": {
+    "full": "shijianshihao",
+    "initials": "sjsh"
+  },
+  "quess-micius": {
+    "full": "mozihao",
+    "initials": "mzh"
+  },
+  "tiangong-2": {
+    "full": "tiangongerhao",
+    "initials": "tgeh"
+  },
+  "shenzhou-11": {
+    "full": "shenzhoushiyihao",
+    "initials": "szsyh"
+  },
+  "fengyun-4a": {
+    "full": "fengyunsihaoa",
+    "initials": "fysha"
+  },
+  "hxmt": {
+    "full": "huiyan",
+    "initials": "hy"
+  },
+  "tianzhou-1": {
+    "full": "tianzhouyihao",
+    "initials": "tzyh"
+  },
+  "queqiao-1": {
+    "full": "queqiaohao",
+    "initials": "qqh"
+  },
+  "change-4": {
+    "full": "changesihao",
+    "initials": "cesh"
+  },
+  "taiji-1": {
+    "full": "taijiyihao",
+    "initials": "tjyh"
+  },
+  "gaofen-7": {
+    "full": "gaofenqihao",
+    "initials": "gfqh"
+  },
+  "beidou-3-g3": {
+    "full": "beidousanhaoshouguanxing",
+    "initials": "bdshsgx"
+  },
+  "gecam": {
+    "full": "huairouyihaogecam",
+    "initials": "hryhg"
+  },
+  "shenzhou-12": {
+    "full": "shenzhoushierhao",
+    "initials": "szseh"
+  },
+  "chase": {
+    "full": "xihehao",
+    "initials": "xhh"
+  },
+  "shenzhou-13": {
+    "full": "shenzhoushisanhao",
+    "initials": "szssh"
+  },
+  "shenzhou-14": {
+    "full": "shenzhoushisihao",
+    "initials": "szssh"
+  },
+  "wentian": {
+    "full": "wentianshiyancang",
+    "initials": "wtsyc"
+  },
+  "aso-s": {
+    "full": "kuafuyihao",
+    "initials": "kfyh"
+  },
+  "mengtian": {
+    "full": "mengtianshiyancang",
+    "initials": "mtsyc"
+  },
+  "shenzhou-15": {
+    "full": "shenzhoushiwuhao",
+    "initials": "szswh"
+  },
+  "shenzhou-16": {
+    "full": "shenzhoushiliuhao",
+    "initials": "szslh"
+  },
+  "shenzhou-17": {
+    "full": "shenzhoushiqihao",
+    "initials": "szsqh"
+  },
+  "einstein-probe": {
+    "full": "aiyinsitantanzhen",
+    "initials": "aystz"
+  },
+  "queqiao-2": {
+    "full": "queqiaoerhao",
+    "initials": "qqeh"
+  },
+  "shenzhou-18": {
+    "full": "shenzhoushibahao",
+    "initials": "szsbh"
+  },
+  "svom": {
+    "full": "tianjiduoboduankongjianbianyuanjianshiqi",
+    "initials": "tjdbdkbyjsq"
+  },
+  "shenzhou-19": {
+    "full": "shenzhoushijiuhao",
+    "initials": "szsjh"
+  },
+  "shenzhou-20": {
+    "full": "shenzhouershihao",
+    "initials": "szesh"
+  },
+  "tianwen-2": {
+    "full": "tianwenerhao",
+    "initials": "tweh"
+  },
+  "shenzhou-21": {
+    "full": "shenzhouershiyihao",
+    "initials": "szesyh"
+  },
+  "shenzhou-22": {
+    "full": "shenzhouershierhao",
+    "initials": "szeseh"
+  },
+  "shenzhou-23": {
+    "full": "shenzhouershisanhao",
+    "initials": "szessh"
+  },
+  "luna-1": {
+    "full": "yueqiuhao",
+    "initials": "yq"
+  },
+  "luna-3": {
+    "full": "yueqiuhao",
+    "initials": "yq"
+  },
+  "venera-1": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "mars-1": {
+    "full": "huoxinghao",
+    "initials": "h"
+  },
+  "venera-3": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "venera-4": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "venera-5": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "venera-6": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "luna-10": {
+    "full": "yueqiuhao",
+    "initials": "yq"
+  },
+  "venera-8": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "venera-9": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "venera-10": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "luna-16": {
+    "full": "yueqiuhao",
+    "initials": "yq"
+  },
+  "luna-17": {
+    "full": "yueqiuhao",
+    "initials": "yq"
+  },
+  "mars-2": {
+    "full": "huoxinghao",
+    "initials": "h"
+  },
+  "venera-13": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "venera-14": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "venera-15": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "venera-16": {
+    "full": "jinxinghao",
+    "initials": "jx"
+  },
+  "vega-1": {
+    "full": "zhinuxinghao",
+    "initials": "znx"
+  },
+  "vega-2": {
+    "full": "zhinuxinghao",
+    "initials": "znx"
+  },
+  "phobos-1": {
+    "full": "huoweiyihao",
+    "initials": "hy"
+  },
+  "phobos-2": {
+    "full": "huoweiyihao",
+    "initials": "hy"
+  },
+  "granat": {
+    "full": "gelanate",
+    "initials": "gnt"
+  },
+  "fobos-grunt": {
+    "full": "fubusituranghao",
+    "initials": "fbstrh"
+  },
+  "spektr-r": {
+    "full": "guangpur",
+    "initials": "gpr"
+  },
+  "spektr-rg": {
+    "full": "guangpurg",
+    "initials": "gpr"
+  },
+  "luna-25": {
+    "full": "yueqiuhao",
+    "initials": "yq"
+  },
+  "giotto": {
+    "full": "qiaotuohao",
+    "initials": "qth"
+  },
+  "hipparcos": {
+    "full": "yibaguweixing",
+    "initials": "ybgwx"
+  },
+  "soho": {
+    "full": "sohotaiyangguancezhan",
+    "initials": "stygcz"
+  },
+  "xmm-newton": {
+    "full": "xmmniudun",
+    "initials": "xnd"
+  },
+  "integral": {
+    "full": "integral",
+    "initials": "i"
+  },
+  "mars-express": {
+    "full": "huoxingkuaiche",
+    "initials": "hkc"
+  },
+  "smart-1": {
+    "full": "smart",
+    "initials": "s"
+  },
+  "rosetta": {
+    "full": "luosaitahao",
+    "initials": "lsth"
+  },
+  "venus-express": {
+    "full": "jinxingkuaiche",
+    "initials": "jxkc"
+  },
+  "herschel": {
+    "full": "hexieerhao",
+    "initials": "hxeh"
+  },
+  "planck": {
+    "full": "pulangkeweixing",
+    "initials": "pkwx"
+  },
+  "lisa-pathfinder": {
+    "full": "lisatanluzhe",
+    "initials": "ltlz"
+  },
+  "exomars-tgo": {
+    "full": "weiliangqitiguidaoqi",
+    "initials": "wlqtgdq"
+  },
+  "gaia": {
+    "full": "gaiya",
+    "initials": "gy"
+  },
+  "bepicolombo": {
+    "full": "beipikelunpo",
+    "initials": "bplp"
+  },
+  "cheops": {
+    "full": "cheops",
+    "initials": "c"
+  },
+  "solar-orbiter": {
+    "full": "taiyangguidaoqi",
+    "initials": "tygdq"
+  },
+  "juice": {
+    "full": "muxingbingyuetanceqi",
+    "initials": "mbytcq"
+  },
+  "euclid": {
+    "full": "oujilide",
+    "initials": "ojld"
+  },
+  "cluster": {
+    "full": "xingcu",
+    "initials": "xc"
+  },
+  "sakigake": {
+    "full": "xianquzhehao",
+    "initials": "xqzh"
+  },
+  "suisei": {
+    "full": "huixinghao",
+    "initials": "hxh"
+  },
+  "hiten": {
+    "full": "feitianhao",
+    "initials": "fth"
+  },
+  "hayabusa": {
+    "full": "sunniaohao",
+    "initials": "snh"
+  },
+  "kaguya": {
+    "full": "huiyejihao",
+    "initials": "hyjh"
+  },
+  "akatsuki": {
+    "full": "xiaohao",
+    "initials": "xh"
+  },
+  "ikaros": {
+    "full": "yikaluosi",
+    "initials": "ykls"
+  },
+  "hayabusa2": {
+    "full": "sunniaohao",
+    "initials": "sn"
+  },
+  "nozomi": {
+    "full": "xiwanghao",
+    "initials": "xwh"
+  },
+  "slim": {
+    "full": "slim",
+    "initials": "s"
+  },
+  "chandrayaan-1": {
+    "full": "yuechuanhao",
+    "initials": "yc"
+  },
+  "mangalyaan": {
+    "full": "manjialianhao",
+    "initials": "mlah"
+  },
+  "astrosat": {
+    "full": "astrosat",
+    "initials": "a"
+  },
+  "chandrayaan-2": {
+    "full": "yuechuanhao",
+    "initials": "yc"
+  },
+  "chandrayaan-3": {
+    "full": "yuechuanhao",
+    "initials": "yc"
+  },
+  "aditya-l1": {
+    "full": "adidiyal",
+    "initials": "addyl"
+  },
+  "beresheet": {
+    "full": "chuangshijihao",
+    "initials": "csj"
+  },
+  "hope-emm": {
+    "full": "xiwanghaoalianqiu",
+    "initials": "xwhalq"
+  },
+  "danuri": {
+    "full": "danulihao",
+    "initials": "dnlh"
+  }
+}

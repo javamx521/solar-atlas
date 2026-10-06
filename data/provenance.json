@@ -1,0 +1,20 @@
+{
+  "format_version": 1,
+  "audit_date": "2026-10-06",
+  "scope": "Educational planet explorer. The mission files are retained as an archive and are not part of the current planet-only interface.",
+  "body_data": {
+    "origin": "Imported bilingual descriptions and NASA Planetary Fact Sheet references from the original demo.",
+    "verification": "Schema and physical ranges are checked automatically. The complete narrative and all physical values have not been independently re-verified.",
+    "visual_model": "Planet radii, distances, orbits and animation speeds are illustrative; this is not a scientific ephemeris.",
+    "solar_safety_source": "https://science.nasa.gov/eclipses/safety/"
+  },
+  "archival_mission_data": {
+    "origin": "Imported mission records from the original demo. Most original sources are textual references rather than direct URLs.",
+    "date_convention": "Dates are historical calendar dates as imported; some Chinese launches use Beijing calendar dates while others use UTC. They are not precise comparable timestamps.",
+    "active_definition": "An imported operating-status snapshot, not proof that a spacecraft is presently communicating. Being in orbit is not the same as operational.",
+    "unknown_end_dates": "An inactive record with null end_date means that the exact end date is unverified, never an ongoing mission.",
+    "review_metadata": "reviewed_on records a targeted check only. verified_fields identifies the fields checked against source_urls; other fields retain their original provenance.",
+    "name_collisions": "Genesis and Beresheet both use the Chinese name 创世纪号. Distinct IDs must be preserved; translated names cannot be used for deduplication.",
+    "pending": "The full archive, current active statuses, dates and multilingual summaries require a dedicated source audit before scientific or live-status use."
+  }
+}

@@ -1,0 +1,1481 @@
+[
+  {
+    "id": "sun",
+    "name_zh": "太阳",
+    "name_en": "Sun",
+    "au": 0,
+    "params": [
+      {
+        "k_zh": "半径",
+        "k_en": "Radius",
+        "v": "695,700 km"
+      },
+      {
+        "k_zh": "质量",
+        "k_en": "Mass",
+        "v": "1.9884×10³⁰ kg"
+      },
+      {
+        "k_zh": "平均密度",
+        "k_en": "Mean density",
+        "v": "1,408 kg/m³"
+      },
+      {
+        "k_zh": "表面重力",
+        "k_en": "Surface gravity",
+        "v": "274.0 m/s²"
+      },
+      {
+        "k_zh": "逃逸速度",
+        "k_en": "Escape velocity",
+        "v": "617.6 km/s"
+      },
+      {
+        "k_zh": "有效温度",
+        "k_en": "Effective temperature",
+        "v": "5,772 K"
+      },
+      {
+        "k_zh": "自转周期",
+        "k_en": "Rotation period",
+        "v": "25.4 天（609.12 小时）",
+        "v_en": "25.4 days (609.12 h)"
+      },
+      {
+        "k_zh": "年龄",
+        "k_en": "Age",
+        "v": "约 46 亿年",
+        "v_en": "~4.6 billion years"
+      },
+      {
+        "k_zh": "光谱型",
+        "k_en": "Spectral type",
+        "v": "G2 V"
+      },
+      {
+        "k_zh": "光度",
+        "k_en": "Luminosity",
+        "v": "3.828×10²⁶ W"
+      },
+      {
+        "k_zh": "视星等",
+        "k_en": "Apparent magnitude",
+        "v": "-26.74"
+      }
+    ],
+    "atmosphere": [],
+    "surface_pressure": "光球层顶部 0.868 mbar",
+    "landmarks": [],
+    "articles": [
+      {
+        "title_zh": "太阳的结构与能量来源",
+        "title_en": "Structure and Energy of the Sun",
+        "body_zh": "太阳是一颗G2V型黄矮星，占太阳系总质量的99.86%。它的能量来自核心的氢核聚变——每秒约6亿吨氢聚变为氦，其中约400万吨物质直接转化为能量。核心温度高达1570万开，压力是地球海平面大气压的2000多亿倍。光子从核心走到表面需要约17万年，而从太阳表面到达地球只需8分20秒。太阳从内到外分为核心、辐射层、对流层、光球层、色球层和日冕，日冕温度可达数百万度，是太阳物理的重要谜题。约50亿年后，太阳将膨胀为红巨星，吞没水星和金星。太阳核心的氢聚变通过质子-质子链进行，需要极高的温度和压力才能克服质子间的静电斥力。辐射层中光子不断被吸收再发射，缓慢向外跋涉；对流层则像烧开的水一样翻腾，把热量送到表面。太阳黑子、耀斑、日珥都是磁场活动的表现。太阳风以每秒400千米的速度吹向行星际空间，形成包裹整个太阳系的日球层，边界在约120天文单位处。",
+        "body_en": "The Sun is a G2V yellow dwarf holding 99.86% of the solar system's mass. Each second ~600 million tons of hydrogen fuse into helium in its core, converting ~4 million tons of matter into energy at 15.7 million K. Photons take ~170,000 years to reach the surface, then 8 min 20 s to reach Earth. From core outward lie the radiative zone, convective zone, photosphere, chromosphere, and the million-degree corona. In ~5 billion years the Sun will swell into a red giant, engulfing Mercury and Venus."
+      },
+      {
+        "title_zh": "太阳活动周期与空间天气",
+        "title_en": "The Solar Cycle and Space Weather",
+        "body_zh": "太阳活动以约11年为周期起伏，表现为太阳黑子数量的增减。黑子是磁场强烈的低温区域，温度比周围低约1500度。活动高峰期，日冕物质抛射和太阳耀斑频发，高速带电粒子流冲击地球磁场，引发地磁暴和绚丽极光，也可能干扰卫星通信、电网和导航系统。1859年的卡林顿事件是最强的有记录地磁暴，当时电报系统起火、极光蔓延到加勒比海。若同等事件发生在今天，可能造成万亿美元级损失。2024至2025年正值第25个太阳活动周期的峰年，全球多地观测到罕见的低纬度极光。SOHO、SDO等卫星持续监测太阳，为空间天气预报提供数据。中国子午工程用地面台站链监测空间天气。STEREO双星从侧面监视太阳，及时发现朝向地球的日冕物质抛射。2024年5月的超级地磁暴让全球多地看到极光。科学家正努力把太阳风暴的预报提前数天，保护电网、卫星与导航系统。",
+        "body_en": "Solar activity rises and falls on an ~11-year cycle, tracked by sunspot numbers; spots are cooler regions ~1,500 K below their surroundings. At solar maximum, coronal mass ejections and flares hurl charged particles at Earth, triggering geomagnetic storms, vivid auroras, and disruptions to satellites, power grids, and navigation. The 1859 Carrington Event — the strongest recorded storm, with auroras over the Caribbean — would cost trillions if it struck today. 2024-2025 marked the peak of Solar Cycle 25, bringing rare low-latitude auroras worldwide."
+      },
+      {
+        "title_zh": "人类观测太阳简史",
+        "title_en": "A Brief History of Solar Observation",
+        "body_zh": "中国古代甲骨文和汉代史书中就有太阳黑子的记录，比伽利略早近两千年。伽利略在1610年代用望远镜观测黑子，证明太阳并非完美无瑕。1868年日食光谱中发现了新元素氦（得名于太阳helios）。19世纪光谱分析揭示太阳主要由氢和氦组成；20世纪30年代，贝特阐明了质子-质子链聚变反应。1995年发射的SOHO卫星实现了对太阳的连续监测，2018年的帕克太阳探测器多次穿越日冕，成为最接近太阳的人造物体。2020年欧洲太阳轨道器升空与之协同探测。中国的羲和号（2021年）和夸父一号（2022年）也加入了观测行列。安全提示：不要直视太阳。烟熏玻璃和普通太阳镜不能安全观日；肉眼观测须用合格太阳观测镜，望远镜须在物镜前安装专用太阳滤镜并听取专业指导。现代空间望远镜在紫外与X射线波段观测日冕，揭开百万度高温之谜。中国计划中的太阳极轨探测器将首次俯视太阳两极，补上人类视角的最后一块拼图。",
+        "body_en": "Chinese oracle bones and Han-dynasty records note sunspots nearly two millennia before Galileo, who observed them telescopically in the 1610s. The 1868 eclipse spectrum revealed helium, named for helios, the Sun. Spectroscopy showed the Sun is mostly hydrogen and helium; in the 1930s Bethe worked out the proton-proton chain. SOHO (1995) enabled continuous monitoring, and the Parker Solar Probe (2018) has flown through the corona — the closest human-made object to the Sun. ESA's Solar Orbiter (2020) collaborates with it, while China's Xihe (2021) and Kuafu-1 (2022) joined the watch. Safety: never look directly at the Sun without appropriate solar-viewing protection. Smoked glass and ordinary sunglasses are unsafe; telescopes need a proper front-mounted solar filter and expert guidance."
+      }
+    ],
+    "sources": [
+      "NASA Sun Fact Sheet (nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html)",
+      "NASA Planetary Fact Sheet",
+      "NASA Eclipse Viewing Safety: https://science.nasa.gov/eclipses/safety/"
+    ],
+    "summary_zh": "太阳是一颗以核心核聚变发光发热的恒星，其引力主导着整个太阳系。",
+    "summary_en": "The Sun is a star powered by nuclear fusion, and its gravity shapes the solar system.",
+    "source_url": "https://science.nasa.gov/sun/facts/"
+  },
+  {
+    "id": "mercury",
+    "name_zh": "水星",
+    "name_en": "Mercury",
+    "au": 0.387,
+    "params": [
+      {
+        "k_zh": "半径",
+        "k_en": "Radius",
+        "v": "2,439.7 km"
+      },
+      {
+        "k_zh": "质量",
+        "k_en": "Mass",
+        "v": "3.301×10²³ kg"
+      },
+      {
+        "k_zh": "平均密度",
+        "k_en": "Mean density",
+        "v": "5,429 kg/m³"
+      },
+      {
+        "k_zh": "表面重力",
+        "k_en": "Surface gravity",
+        "v": "3.70 m/s²"
+      },
+      {
+        "k_zh": "逃逸速度",
+        "k_en": "Escape velocity",
+        "v": "4.3 km/s"
+      },
+      {
+        "k_zh": "距日距离",
+        "k_en": "Distance from Sun",
+        "v": "0.387 AU"
+      },
+      {
+        "k_zh": "公转周期",
+        "k_en": "Orbital period",
+        "v": "87.97 天",
+        "v_en": "87.97 days"
+      },
+      {
+        "k_zh": "自转周期",
+        "k_en": "Rotation period",
+        "v": "58.65 天",
+        "v_en": "58.65 days"
+      },
+      {
+        "k_zh": "平均温度",
+        "k_en": "Mean temperature",
+        "v": "167°C"
+      },
+      {
+        "k_zh": "卫星数",
+        "k_en": "Natural satellites",
+        "v": "0"
+      },
+      {
+        "k_zh": "全球磁场",
+        "k_en": "Global magnetic field",
+        "v": "有（微弱）",
+        "v_en": "Yes (weak)"
+      }
+    ],
+    "atmosphere": [],
+    "surface_pressure": "<5×10⁻¹⁵ bar（表面外逸层，近真空）",
+    "landmarks": [
+      {
+        "name_zh": "卡洛里斯平原",
+        "name_en": "Caloris Planitia",
+        "lat": 30.5,
+        "lon": 161.2,
+        "desc_zh": "水星最大的撞击盆地，直径约1,550千米，名字在拉丁语中意为热。",
+        "desc_en": "Mercury's largest impact basin, ~1,550 km across; its name is Latin for 'heat'."
+      },
+      {
+        "name_zh": "伦勃朗盆地",
+        "name_en": "Rembrandt Basin",
+        "lat": -32.89,
+        "lon": 87.87,
+        "desc_zh": "直径716千米的水星第二大撞击盆地，信使号2008年飞掠时发现。",
+        "desc_en": "Mercury's second-largest impact basin at 716 km wide, discovered by MESSENGER in 2008."
+      },
+      {
+        "name_zh": "拉赫玛尼诺夫撞击坑",
+        "name_en": "Rachmaninoff",
+        "lat": 27.66,
+        "lon": 57.37,
+        "desc_zh": "直径约290千米的峰环撞击盆地，以作曲家拉赫玛尼诺夫命名。",
+        "desc_en": "A ~290 km peak-ring impact basin named after composer Sergei Rachmaninoff."
+      },
+      {
+        "name_zh": "北方大平原",
+        "name_en": "Borealis Planitia",
+        "lat": 67.3,
+        "lon": 327.4,
+        "desc_zh": "水星北极地区的广阔平原，其永久阴影撞击坑中可能藏有水冰。",
+        "desc_en": "Vast northern plains whose permanently shadowed craters may hold water ice."
+      },
+      {
+        "name_zh": "万神殿沟系",
+        "name_en": "Pantheon Fossae",
+        "lat": 30.19,
+        "lon": 197.17,
+        "desc_zh": "卡洛里斯盆地中央放射状的裂谷系统，形似罗马万神殿的穹顶肋架。",
+        "desc_en": "A radial fracture system at the center of Caloris, resembling the Pantheon's dome ribs."
+      }
+    ],
+    "articles": [
+      {
+        "title_zh": "昼夜温差最大的行星",
+        "title_en": "The Planet of Extremes",
+        "body_zh": "水星白天最高可达427°C，夜晚却低至-173°C，昼夜温差超过600°C，是太阳系之最。原因有三：几乎没有大气层来保温，自转极其缓慢（一个太阳日约176个地球日），再加上离太阳最近。水星的自转与公转还存在3:2共振：自转3圈恰好公转2圈。讽刺的是，信使号的伽马射线谱仪证实，水星两极永久阴影的撞击坑中存在水冰——在太阳系最热的行星上竟然藏着冰，可能是彗星撞击带来，或太阳风质子与土壤中的氧结合而成，这是水星最出人意料的发现之一。水星表面布满撞击坑，记录了38亿年前的后期重轰炸期。信使号发现水星在冷却收缩，表面布满皱脊。极区水冰可能藏于永久阴影坑中，总量或达数千亿吨。贝皮科伦坡将用中子谱仪精确测定氢的分布，揭开这些冰的来源之谜。",
+        "body_en": "Mercury swings from 427°C by day to -173°C by night, the largest temperature range of any planet: almost no atmosphere to retain heat, extremely slow rotation (one solar day lasts ~176 Earth days), and the closest orbit to the Sun. Its spin and orbit lock in a 3:2 resonance — three rotations per two orbits. Ironically, MESSENGER's gamma-ray spectrometer confirmed water ice in permanently shadowed polar craters — ice on the hottest planet, perhaps delivered by comets or formed when solar-wind protons meet oxygen in the soil."
+      },
+      {
+        "title_zh": "信使号与贝皮科伦坡",
+        "title_en": "MESSENGER and BepiColombo",
+        "body_zh": "1974至1975年，水手10号利用金星引力助推三次飞掠水星，只拍摄了45%的表面。2008至2015年，信使号成为首颗环绕水星的探测器，绘制了完整地图：发现水星有个巨大的铁核，占半径的75%以上，液态外核维持着微弱的全球磁场——这对如此小的行星而言出人意料；表面布满皱脊，说明水星冷却收缩，半径缩小了约14千米。2015年燃料耗尽后，信使号撞向水星，撞出一个新的撞击坑。欧空局与日本合作的贝皮科伦坡号于2018年发射，2026年进入水星轨道，将用两台轨道器、16台仪器联合探测水星的内部、磁场与外逸层。贝皮科伦坡以意大利科学家朱塞佩·科伦坡命名，由水星行星轨道器与磁层轨道器组成。它将用激光高度计绘制全球地形，用质谱仪分析外逸层成分，研究太阳风与水星磁场的相互作用，回答水星为何密度如此之高。",
+        "body_en": "Mariner 10 used a Venus gravity assist for three Mercury flybys in 1974-75 but mapped only 45% of the surface. MESSENGER (2008-2015) became the first orbiter, revealing a huge iron core spanning over 75% of the planet's radius, with a liquid outer core sustaining a weak global field — surprising for so small a body. Wrinkled ridges show Mercury shrank ~14 km as it cooled. Out of fuel in 2015, MESSENGER impacted the surface. ESA and Japan's BepiColombo, launched in 2018, entered Mercury orbit in 2026 with two orbiters and 16 instruments."
+      },
+      {
+        "title_zh": "卡洛里斯盆地的故事",
+        "title_en": "The Story of Caloris",
+        "body_zh": "约38亿年前，一颗小行星撞击水星，砸出直径1,550千米的卡洛里斯盆地——太阳系最大的撞击构造之一。撞击产生的冲击波穿过整个星球，在水星的另一面挤出了怪异地形，丘陵沟壑纵横。后来，火山熔岩填平了盆地底部，形成的平原面积相当于美国阿拉斯加州。它的名字来自拉丁语calor（热），因为每当水星经过近日点，太阳几乎直射盆地上空。站在盆地中央环顾，周围是高达2千米的卡洛里斯山脉环；盆地中央还有放射状的万神殿沟系，形似罗马万神殿的穹顶。卡洛里斯盆地形成于后期重轰炸期，当时内太阳系遭受频繁撞击。盆地内部熔岩平原的面积相当于美国阿拉斯加州。怪异地形位于盆地对跖点，是地震波聚焦挤压的结果，丘陵沟壑纵横。盆地颜色异常区显示地下深色物质被后续撞击翻出，为研究水星地壳成分提供了窗口。",
+        "body_en": "About 3.8 billion years ago an asteroid slammed into Mercury, excavating the 1,550 km Caloris basin — among the largest impact structures in the solar system. Shock waves traveled through the entire planet and rumpled the far side into the Weird Terrain of hills and grooves. Lava later flooded the basin floor into plains the size of Alaska. Its name comes from the Latin 'calor' (heat): at each perihelion the Sun stands almost directly overhead. From its center, the 2 km-high Caloris Montes ring the horizon, with the radial Pantheon Fossae at the middle."
+      }
+    ],
+    "sources": [
+      "NASA Mercury Fact Sheet (nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html)",
+      "NASA Planetary Fact Sheet",
+      "Wikipedia: Caloris Planitia / Rembrandt (crater) / Rachmaninoff (crater) / List of geological features on Mercury"
+    ],
+    "summary_zh": "水星是最靠近太阳、也是太阳系中最小的行星，布满陨石坑的表面经历极端温差。",
+    "summary_en": "Mercury is the smallest planet and the closest to the Sun, with a cratered surface and extreme temperature swings.",
+    "source_url": "https://science.nasa.gov/mercury/facts/"
+  },
+  {
+    "id": "venus",
+    "name_zh": "金星",
+    "name_en": "Venus",
+    "au": 0.723,
+    "params": [
+      {
+        "k_zh": "半径",
+        "k_en": "Radius",
+        "v": "6,051.8 km"
+      },
+      {
+        "k_zh": "质量",
+        "k_en": "Mass",
+        "v": "4.867×10²⁴ kg"
+      },
+      {
+        "k_zh": "平均密度",
+        "k_en": "Mean density",
+        "v": "5,243 kg/m³"
+      },
+      {
+        "k_zh": "表面重力",
+        "k_en": "Surface gravity",
+        "v": "8.87 m/s²"
+      },
+      {
+        "k_zh": "逃逸速度",
+        "k_en": "Escape velocity",
+        "v": "10.36 km/s"
+      },
+      {
+        "k_zh": "距日距离",
+        "k_en": "Distance from Sun",
+        "v": "0.723 AU"
+      },
+      {
+        "k_zh": "公转周期",
+        "k_en": "Orbital period",
+        "v": "224.70 天",
+        "v_en": "224.70 days"
+      },
+      {
+        "k_zh": "自转周期",
+        "k_en": "Rotation period",
+        "v": "243 天（逆行）",
+        "v_en": "243 days (retrograde)"
+      },
+      {
+        "k_zh": "平均温度",
+        "k_en": "Mean temperature",
+        "v": "464°C"
+      },
+      {
+        "k_zh": "表面气压",
+        "k_en": "Surface pressure",
+        "v": "92 bar"
+      },
+      {
+        "k_zh": "卫星数",
+        "k_en": "Natural satellites",
+        "v": "0"
+      }
+    ],
+    "atmosphere": [
+      {
+        "name_zh": "二氧化碳",
+        "name_en": "CO₂",
+        "pct": 96.5
+      },
+      {
+        "name_zh": "氮",
+        "name_en": "N₂",
+        "pct": 3.5
+      }
+    ],
+    "surface_pressure": "92 bar",
+    "landmarks": [
+      {
+        "name_zh": "麦克斯韦山脉",
+        "name_en": "Maxwell Montes",
+        "lat": 65.2,
+        "lon": 3.3,
+        "desc_zh": "金星最高峰，高出平均半径约11千米，是金星唯一以男性命名的地貌。",
+        "desc_en": "Venus's highest peak, ~11 km above mean radius; the only Venusian feature named after a man."
+      },
+      {
+        "name_zh": "马特山",
+        "name_en": "Maat Mons",
+        "lat": 0.5,
+        "lon": 194.6,
+        "desc_zh": "金星最高的火山，高约8千米，可能仍有火山活动。",
+        "desc_en": "Venus's highest volcano at ~8 km tall, possibly still volcanically active."
+      },
+      {
+        "name_zh": "西芙山",
+        "name_en": "Sif Mons",
+        "lat": 22,
+        "lon": 352.4,
+        "desc_zh": "盾形火山，1990年代曾观测到疑似喷发的迹象。",
+        "desc_en": "A shield volcano with candidate eruption signatures observed in the 1990s."
+      },
+      {
+        "name_zh": "伊师塔地",
+        "name_en": "Ishtar Terra",
+        "lat": 70.4,
+        "lon": 27.5,
+        "desc_zh": "金星北半球的高原大陆，面积介于澳大利亚与美国本土之间。",
+        "desc_en": "A northern highland continent, between Australia and the contiguous US in size."
+      },
+      {
+        "name_zh": "阿芙洛狄忒地",
+        "name_en": "Aphrodite Terra",
+        "lat": -10,
+        "lon": 100,
+        "desc_zh": "金星最大的高原大陆，面积约为非洲的一半，布满裂谷。",
+        "desc_en": "Venus's largest highland, about half the size of Africa, scored with rift valleys."
+      },
+      {
+        "name_zh": "拉克什米高原",
+        "name_en": "Lakshmi Planum",
+        "lat": 68.6,
+        "lon": 339.3,
+        "desc_zh": "伊师塔地中部被群山环抱的熔岩高原，高出平均半径3.5至5千米。",
+        "desc_en": "A lava plateau ringed by mountains in central Ishtar Terra, 3.5-5 km above mean radius."
+      }
+    ],
+    "articles": [
+      {
+        "title_zh": "失控的温室效应",
+        "title_en": "The Runaway Greenhouse",
+        "body_zh": "金星表面温度高达464°C，比离太阳更近的水星还热，足以熔化铅。大气96.5%是二氧化碳，表面气压相当于地球的92倍，总质量是地球大气的93倍，云层由浓硫酸液滴组成。科学家认为，金星早期可能拥有海洋，但失控的温室效应让水全部蒸发：水蒸气本身也是温室气体，升温导致更多蒸发，形成正反馈；紫外线分解水蒸气，氢逃逸到太空，碳则锁进大气。今天的金星，是研究气候如何走向失控的天然实验室。NASA的DAVINCI探测器将穿越大气直接测量成分，寻找失控的临界点。金星云层厚约20千米，由浓硫酸液滴组成。金星大气总质量是地球的93倍。失控温室的触发点可能是距日稍近导致的水蒸气正反馈。金星快车发现大气存在超级旋转，云顶风速达100米/秒。DAVINCI探测器将穿越大气直接测量成分，寻找失控的临界点。",
+        "body_en": "Venus's surface bakes at 464°C — hotter than Mercury despite being farther from the Sun, hot enough to melt lead. Its atmosphere is 96.5% carbon dioxide at 92 times Earth's surface pressure, with clouds of concentrated sulfuric acid. Scientists believe Venus may once have had oceans, but a runaway greenhouse effect boiled them away: water vapor is itself a greenhouse gas, so warming caused more evaporation in a feedback loop; ultraviolet split the vapor and hydrogen escaped to space. Venus is a natural laboratory for climate gone wrong."
+      },
+      {
+        "title_zh": "一天比一年还长",
+        "title_en": "A Day Longer Than a Year",
+        "body_zh": "金星自转方向与其他行星相反，是逆行自转，自转轴倾角177.4°，相当于倒立着转；自转一周需要243个地球日，而它绕太阳公转一周只需224.7天——在金星上，一天比一年还长，一个太阳日（两次正午之间）长达116.75个地球日。科学家推测，远古时期的一次巨大撞击可能撞反了它的自转，或者浓密大气产生的潮汐力在数十亿年里慢慢刹住了自转。如今在金星上，太阳从西边升起、东边落下。金星没有卫星，也没有内禀磁场，麦哲伦雷达发现其表面年龄仅3至6亿年，可能经历过全球性的火山重塑。金星自转轴倾角177.4°，相当于倒立自转。太阳日在金星长达116.75个地球日。逆行原因假说包括巨大撞击、混沌倾角演化与大气潮汐制动。金星没有卫星，也没有内禀磁场。麦哲伦雷达发现表面年龄仅3至6亿年，可能经历过全球性火山重塑。",
+        "body_en": "Venus spins backwards — retrograde, tilted 177.4°, effectively upside down — taking 243 Earth days per rotation but only 224.7 days to orbit the Sun: a day on Venus lasts longer than its year, and one solar day spans 116.75 Earth days. A giant ancient impact may have flipped its spin, or atmospheric tides may have braked it over billions of years. On Venus the Sun rises in the west. Venus has no moons and no intrinsic magnetic field, and Magellan radar suggests its surface is only 300-600 million years old, perhaps resurfaced by global volcanism."
+      },
+      {
+        "title_zh": "人类探测金星简史",
+        "title_en": "Exploring Venus",
+        "body_zh": "1962年，水手2号首次成功飞掠金星，用微波辐射计测得表面酷热难耐。苏联的金星系列创造了历史：1970年金星7号首次在另一颗行星表面软着陆并传回数据；1975年金星9号传回首张表面黑白照片；1982年金星13号拍下人类第一张金星表面彩色照片，橙黄色的天空下布满岩石。1978年先驱者金星号入轨测绘，1990至1994年麦哲伦号用雷达穿透云层，绘制了98%的金星表面地图。2006至2014年金星快车研究大气超级旋转，2015年日本拂晓号入轨。NASA的VERITAS与DAVINCI、欧空局的EnVision计划在2030年代重返金星。印度Shukrayaan任务计划探测金星大气。VERITAS将用雷达绘制高精度地形，DAVINCI投放探测器穿越云层，EnVision综合研究地质与大气。三箭齐发，金星研究将在2030年代迎来新高潮。",
+        "body_en": "Mariner 2 flew by in 1962 and measured scorching microwave heat. The Soviet Venera program made history: Venera 7 (1970) was the first to land on another planet and transmit data; Venera 9 (1975) sent the first black-and-white surface photos; Venera 13 (1982) returned the first color images — an orange sky over rocky plains. Pioneer Venus (1978) mapped from orbit; Magellan (1990-94) used radar to map 98% of the surface through the clouds. Venus Express (2006-2014) studied the super-rotating atmosphere, and Japan's Akatsuki arrived in 2015. VERITAS, DAVINCI, and EnVision return in the 2030s."
+      }
+    ],
+    "sources": [
+      "NASA Venus Fact Sheet (nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html)",
+      "NASA Planetary Fact Sheet",
+      "Wikipedia: Maxwell Montes / Maat Mons / Sif Mons / Ishtar Terra / Aphrodite Terra / Lakshmi Planum"
+    ],
+    "summary_zh": "金星被浓密的二氧化碳大气与云层包裹，强烈的温室效应使它成为最炎热的行星。",
+    "summary_en": "Venus is wrapped in thick carbon dioxide air and clouds, creating the hottest surface of any planet.",
+    "source_url": "https://science.nasa.gov/venus/venus-facts/"
+  },
+  {
+    "id": "earth",
+    "name_zh": "地球",
+    "name_en": "Earth",
+    "au": 1,
+    "params": [
+      {
+        "k_zh": "半径",
+        "k_en": "Radius",
+        "v": "6,371.0 km"
+      },
+      {
+        "k_zh": "质量",
+        "k_en": "Mass",
+        "v": "5.9722×10²⁴ kg"
+      },
+      {
+        "k_zh": "平均密度",
+        "k_en": "Mean density",
+        "v": "5,513 kg/m³"
+      },
+      {
+        "k_zh": "表面重力",
+        "k_en": "Surface gravity",
+        "v": "9.82 m/s²"
+      },
+      {
+        "k_zh": "逃逸速度",
+        "k_en": "Escape velocity",
+        "v": "11.186 km/s"
+      },
+      {
+        "k_zh": "距日距离",
+        "k_en": "Distance from Sun",
+        "v": "1.0 AU"
+      },
+      {
+        "k_zh": "公转周期",
+        "k_en": "Orbital period",
+        "v": "365.256 天",
+        "v_en": "365.256 days"
+      },
+      {
+        "k_zh": "自转周期",
+        "k_en": "Rotation period",
+        "v": "23.93 小时",
+        "v_en": "23.93 h"
+      },
+      {
+        "k_zh": "平均温度",
+        "k_en": "Mean temperature",
+        "v": "15°C"
+      },
+      {
+        "k_zh": "表面气压",
+        "k_en": "Surface pressure",
+        "v": "1,014 mbar"
+      },
+      {
+        "k_zh": "卫星数",
+        "k_en": "Natural satellites",
+        "v": "1（月球）",
+        "v_en": "1 (the Moon)"
+      },
+      {
+        "k_zh": "全球磁场",
+        "k_en": "Global magnetic field",
+        "v": "有",
+        "v_en": "Yes"
+      }
+    ],
+    "atmosphere": [
+      {
+        "name_zh": "氮",
+        "name_en": "N₂",
+        "pct": 78.08
+      },
+      {
+        "name_zh": "氧",
+        "name_en": "O₂",
+        "pct": 20.95
+      },
+      {
+        "name_zh": "氩",
+        "name_en": "Ar",
+        "pct": 0.93
+      }
+    ],
+    "surface_pressure": "1,014 mbar",
+    "landmarks": [
+      {
+        "name_zh": "珠穆朗玛峰",
+        "name_en": "Mount Everest",
+        "lat": 27.99,
+        "lon": 86.93,
+        "desc_zh": "地球最高峰，海拔8,848.86米，位于中国与尼泊尔边境。",
+        "desc_en": "Earth's highest peak at 8,848.86 m, on the China-Nepal border."
+      },
+      {
+        "name_zh": "马里亚纳海沟",
+        "name_en": "Mariana Trench",
+        "lat": 11.37,
+        "lon": 142.59,
+        "desc_zh": "地球最深处，挑战者深渊深约10,935米，比珠峰还深2千米。",
+        "desc_en": "Earth's deepest point; Challenger Deep reaches ~10,935 m, deeper than Everest is tall."
+      },
+      {
+        "name_zh": "科罗拉多大峡谷",
+        "name_en": "Grand Canyon",
+        "lat": 36.1,
+        "lon": 247.9,
+        "desc_zh": "科罗拉多河用数百万年雕刻出的巨型峡谷，深达1,800米。",
+        "desc_en": "A giant canyon carved by the Colorado River over millions of years, up to 1,800 m deep."
+      },
+      {
+        "name_zh": "撒哈拉沙漠",
+        "name_en": "Sahara Desert",
+        "lat": 23.4,
+        "lon": 12.6,
+        "desc_zh": "世界最大的热沙漠，面积约940万平方公里（示意位置）。",
+        "desc_en": "The world's largest hot desert, ~9.4 million km² (representative location)."
+      },
+      {
+        "name_zh": "亚马孙雨林",
+        "name_en": "Amazon Rainforest",
+        "lat": -3,
+        "lon": 300,
+        "desc_zh": "物种丰富的热带雨林，对区域水循环、气候与碳储存十分重要（示意位置）。",
+        "desc_en": "A biodiverse tropical forest important to regional water cycling, climate and carbon storage (representative location)."
+      },
+      {
+        "name_zh": "大堡礁",
+        "name_en": "Great Barrier Reef",
+        "lat": -18.3,
+        "lon": 147.7,
+        "desc_zh": "世界最大的珊瑚礁系统，从太空可见（示意位置）。",
+        "desc_en": "The world's largest coral reef system, visible from space (representative location)."
+      }
+    ],
+    "articles": [
+      {
+        "title_zh": "蓝色弹珠：唯一的生命星球",
+        "title_en": "The Blue Marble",
+        "body_zh": "地球是目前已知唯一存在生命的行星。液态水覆盖了71%的表面，大气层、磁场和恰到好处的距日距离共同守护着生命。在45.4亿年历史中，海洋出现于约40亿年前，生命至少出现了35亿年；约24亿年前，产氧光合作用促成了大氧化事件，大气中的氧开始显著积累；今天约21%的氧含量是随后漫长演化的结果。地球还是太阳系中密度最高的行星（5,513 kg/m³），板块构造持续更新地壳，碳循环调节着气候。1968年，阿波罗8号拍摄的地出照片从月球附近展示了地球的脆弱与美丽，成为环保意识的重要象征。今天，80亿人类与数百万物种共享这颗蓝色弹珠。寻找第二个地球仍是系外行星研究的核心目标，开普勒与苔丝望远镜已发现数千颗系外行星，但尚未确认地球以外存在生命。",
+        "body_en": "Earth is the only known planet with life. Liquid water covers 71% of its surface, while the atmosphere, magnetic field, and just-right distance from the Sun shelter living things. Oceans appeared ~4 billion years ago and life at least 3.5 billion years ago; ~2.4 billion years ago oxygen-producing photosynthesis helped drive the Great Oxidation Event, when atmospheric oxygen began to accumulate; today’s roughly 21% oxygen level reflects a much longer evolutionary history. Earth is also the densest planet in our solar system (5,513 kg/m³), with plate tectonics renewing the crust and the carbon cycle regulating climate. Apollo 8's 1968 Earthrise photograph offered an iconic view of Earth from near the Moon."
+      },
+      {
+        "title_zh": "地球磁场：隐形的盾牌",
+        "title_en": "The Magnetic Shield",
+        "body_zh": "地核中液态铁镍的对流，加上地球自转，形成了发电机效应，产生全球磁场。磁场像盾牌一样偏转太阳风，保护大气不被剥离；范艾伦辐射带捕获了大量带电粒子。磁场两极附近，带电粒子沿磁力线沉降，激发高层大气中的氧和氮原子，形成绚丽的极光。地球磁极会漂移甚至翻转，上一次翻转发生在78万年前。对比鲜明的是，火星在约40亿年前失去全球磁场后，大气被太阳风剥蚀殆尽，变成了今天的荒漠。地球的磁场，可能是生命得以延续数十亿年的关键条件之一。地球磁场强度约0.3至0.6高斯，磁极会漂移甚至翻转，上次翻转在78万年前。范艾伦辐射带中的高能带电粒子会威胁航天器电子设备与航天员，需要轨道规划和辐射防护。火星约40亿年前失去全球磁场，大气被太阳风剥蚀殆尽；木卫三是唯一有内禀磁场的卫星。",
+        "body_en": "Convection of liquid iron-nickel in the outer core, combined with Earth's spin, drives a dynamo that generates the global magnetic field. It deflects the solar wind like a shield, protecting the atmosphere, while the Van Allen belts trap charged particles. Near the magnetic poles, particles spiral down field lines and excite oxygen and nitrogen into auroras. Earth's poles drift and even reverse — the last reversal was 780,000 years ago. Mars lost its global field ~4 billion years ago and with it most of its atmosphere. Earth's magnetic shield may be one key reason life has endured. The energetic particles trapped in the Van Allen belts can damage spacecraft electronics and harm astronauts, so missions need radiation protection and careful trajectory planning."
+      },
+      {
+        "title_zh": "月球的形成之谜",
+        "title_en": "How the Moon Formed",
+        "body_zh": "主流的大碰撞说认为，45亿年前，一颗火星大小的天体忒伊亚撞击了原始地球，抛出的碎片在轨道上凝聚成月球，阿波罗带回的月岩氧同位素支持这一理论。月球直径3,475千米，相对地球而言体积很大；潮汐锁定让它永远以同一面朝向地球。月球稳定了地球自转轴的倾角，使其只在22.1°至24.5°之间摆动，否则气候将剧烈动荡；潮汐搅动还可能促进了早期生命的化学演化。如今月球正以每年3.8厘米的速度远离地球，月球潮汐制动对日长增加的贡献约为每世纪2.3毫秒——数亿年后，日全食将成为历史。月球表面布满撞击坑，南极-艾特肯盆地是太阳系最大的撞击构造之一。",
+        "body_en": "The leading giant-impact hypothesis says a Mars-sized body, Theia, struck the early Earth 4.5 billion years ago, and the debris coalesced into the Moon — Apollo moon rocks support this. At 3,475 km wide, the Moon is unusually large relative to Earth, tidally locked to always show one face. It stabilizes Earth's axial tilt between 22.1° and 24.5°, preventing wild climate swings, and its tides may have aided early life's chemistry. The Moon now recedes 3.8 cm per year while lunar tidal braking contributes about 2.3 ms per century to the lengthening of Earth's day — total solar eclipses will one day be history."
+      }
+    ],
+    "sources": [
+      "NASA Earth Fact Sheet (nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html)",
+      "NASA Planetary Fact Sheet",
+      "Wikipedia: Challenger Deep / Mariana Trench",
+      "NASA Astrobiology: https://astrobiology.nasa.gov/news/clues-to-oxygen-on-earth-before-the-great-oxidation-event/",
+      "NASA Van Allen Belts: https://science.nasa.gov/biological-physical/stories/van-allen-belts/",
+      "NASA Amazon research: https://www.nasa.gov/missions/landsat/how-scientists-used-acoustic-soundscapes-and-nasa-satellite-data-to-assess-the-health-of-the-amazon-rainforest/",
+      "NASA Secular Acceleration of the Moon: https://eclipse.gsfc.nasa.gov/LEcat5/secular.html"
+    ],
+    "summary_zh": "地球拥有广阔的液态水海洋，是目前唯一已知孕育生命的行星。",
+    "summary_en": "Earth has vast liquid-water oceans and is the only planet known to support life.",
+    "source_url": "https://science.nasa.gov/earth/facts/"
+  },
+  {
+    "id": "mars",
+    "name_zh": "火星",
+    "name_en": "Mars",
+    "au": 1.524,
+    "params": [
+      {
+        "k_zh": "半径",
+        "k_en": "Radius",
+        "v": "3,389.5 km"
+      },
+      {
+        "k_zh": "质量",
+        "k_en": "Mass",
+        "v": "6.417×10²³ kg"
+      },
+      {
+        "k_zh": "平均密度",
+        "k_en": "Mean density",
+        "v": "3,934 kg/m³"
+      },
+      {
+        "k_zh": "表面重力",
+        "k_en": "Surface gravity",
+        "v": "3.73 m/s²"
+      },
+      {
+        "k_zh": "逃逸速度",
+        "k_en": "Escape velocity",
+        "v": "5.03 km/s"
+      },
+      {
+        "k_zh": "距日距离",
+        "k_en": "Distance from Sun",
+        "v": "1.524 AU"
+      },
+      {
+        "k_zh": "公转周期",
+        "k_en": "Orbital period",
+        "v": "686.98 天",
+        "v_en": "686.98 days"
+      },
+      {
+        "k_zh": "自转周期",
+        "k_en": "Rotation period",
+        "v": "24.62 小时",
+        "v_en": "24.62 h"
+      },
+      {
+        "k_zh": "平均温度",
+        "k_en": "Mean temperature",
+        "v": "-65°C"
+      },
+      {
+        "k_zh": "表面气压",
+        "k_en": "Surface pressure",
+        "v": "6.36 mbar"
+      },
+      {
+        "k_zh": "卫星数",
+        "k_en": "Natural satellites",
+        "v": "2（火卫一、火卫二）",
+        "v_en": "2 (Phobos and Deimos)"
+      }
+    ],
+    "atmosphere": [
+      {
+        "name_zh": "二氧化碳",
+        "name_en": "CO₂",
+        "pct": 95.1
+      },
+      {
+        "name_zh": "氮",
+        "name_en": "N₂",
+        "pct": 2.59
+      },
+      {
+        "name_zh": "氩",
+        "name_en": "Ar",
+        "pct": 1.94
+      },
+      {
+        "name_zh": "氧",
+        "name_en": "O₂",
+        "pct": 0.16
+      },
+      {
+        "name_zh": "一氧化碳",
+        "name_en": "CO",
+        "pct": 0.06
+      }
+    ],
+    "surface_pressure": "6.36 mbar",
+    "landmarks": [
+      {
+        "name_zh": "奥林帕斯山",
+        "name_en": "Olympus Mons",
+        "lat": 18.65,
+        "lon": 226.2,
+        "desc_zh": "太阳系最高的火山，高约21.9千米，是珠峰的2.5倍。",
+        "desc_en": "The tallest volcano in the solar system at ~21.9 km, 2.5 times Everest."
+      },
+      {
+        "name_zh": "水手谷",
+        "name_en": "Valles Marineris",
+        "lat": -13.9,
+        "lon": 300.8,
+        "desc_zh": "太阳系最大的峡谷，长逾4,000千米，深达7千米。",
+        "desc_en": "The largest canyon in the solar system: over 4,000 km long and up to 7 km deep."
+      },
+      {
+        "name_zh": "盖尔撞击坑",
+        "name_en": "Gale Crater",
+        "lat": -5.5,
+        "lon": 137.7,
+        "desc_zh": "好奇号火星车的着陆点，中央的夏普山记录了古代湖泊历史。",
+        "desc_en": "Curiosity rover's landing site; central Mount Sharp records an ancient lake's history."
+      },
+      {
+        "name_zh": "杰泽罗撞击坑",
+        "name_en": "Jezero Crater",
+        "lat": 18.38,
+        "lon": 77.58,
+        "desc_zh": "毅力号的着陆点，古老的河流入湖三角洲，正在采集火星样本。",
+        "desc_en": "Perseverance's landing site, an ancient river delta now yielding Mars samples."
+      },
+      {
+        "name_zh": "希腊平原",
+        "name_en": "Hellas Planitia",
+        "lat": -42.4,
+        "lon": 70.5,
+        "desc_zh": "直径2,300千米的巨型撞击盆地，拥有火星表面最低点。",
+        "desc_en": "A 2,300 km impact basin holding the lowest point on Mars."
+      },
+      {
+        "name_zh": "阿尔西亚山",
+        "name_en": "Arsia Mons",
+        "lat": -8.4,
+        "lon": 239.91,
+        "desc_zh": "塔尔西斯三座巨型盾形火山中最南的一座，高约20千米。",
+        "desc_en": "The southernmost of the three giant Tharsis shield volcanoes, ~20 km tall."
+      }
+    ],
+    "articles": [
+      {
+        "title_zh": "为什么火星是红色的",
+        "title_en": "Why Mars Is Red",
+        "body_zh": "火星表面富含氧化铁——也就是铁锈，尘埃中的纳米相氧化铁与赤铁矿让整颗行星呈现锈红色。火星尘埃粒径仅几微米，全球性尘暴时整个天空都会变红。红色在古代文化中象征战争与鲜血，中文名荧惑、英文名Mars（战神）都源于此，巴比伦与中国的古籍都记录了它妖异的红色。有趣的是，火星的日出日落天空却是蓝色的：尘埃散射掉了红光，只留下蓝色光晕。火星土壤还含有高氯酸盐，两极有水冰与干冰组成的极冠，随季节消长。火星土壤中还含有高氯酸盐，对人类有毒。两极有水冰与干冰组成的极冠，随季节消长，冬季二氧化碳极冠可延伸到60°纬度。火星的天空平时呈粉红色，尘暴过后会更加浑浊。火星快车等轨道器持续监测着尘暴的酝酿，为着陆任务提供预警。",
+        "body_en": "Mars is rich in iron oxide — rust. Nanoscale iron oxides and hematite in the dust paint the whole planet red; dust grains are only microns across, and global dust storms turn the entire sky red. Ancient cultures linked red with war and blood: the Chinese Yinghuo and English Mars (god of war) both reflect this, and Babylonian tablets record its eerie glow. Curiously, Martian sunrises and sunsets are blue — dust scatters away the red light. The soil also holds perchlorates, and the poles wear caps of water ice and dry ice that grow and shrink with the seasons."
+      },
+      {
+        "title_zh": "火星上水的历史",
+        "title_en": "The History of Water on Mars",
+        "body_zh": "30多亿年前，火星曾有河流、湖泊甚至海洋。好奇号在盖尔坑发现，古代湖泊曾稳定存在数百万年；毅力号在杰泽罗的河流入湖三角洲采集样本，密封在钛管中等待取回。如今，水大多以极冠冰和地下冰的形式存在。2021年，祝融号在乌托邦平原发现了古代海岸线的证据；火星快车的雷达在南极冰盖下探测到疑似液态水湖（仍有争议）。火星大气每年冬季有约30%的二氧化碳凝结到极冠。寻找液态水，就是寻找火星生命的最大希望——哪里有水，哪里就可能有生命。好奇号在盖尔坑发现，古代湖泊曾稳定存在数百万年。毅力号密封的样本管等待未来的取回任务。甲烷的季节性变化之谜尚未解开，可能是地质或生物活动的信号。哪里有液态水，哪里就可能有生命。欧空局Rosalind Franklin火星车将钻探地下两米寻找生命痕迹。",
+        "body_en": "Over 3 billion years ago Mars had rivers, lakes, and possibly oceans. Curiosity found an ancient lake in Gale Crater that persisted for millions of years; Perseverance is sealing delta samples in titanium tubes at Jezero for future return. Today water survives mostly as polar and subsurface ice. In 2021 Zhurong found signs of an ancient shoreline in Utopia Planitia, while Mars Express radar hints at buried liquid-water lakes under the south polar cap (still debated). Each winter ~30% of the CO2 atmosphere freezes onto the poles. Finding liquid water is the greatest hope for finding Martian life."
+      },
+      {
+        "title_zh": "人类探测火星简史",
+        "title_en": "Exploring Mars",
+        "body_zh": "1965年，水手4号首次飞掠火星传回照片；1971年苏联火星3号首次软着陆，但只工作了20秒；1976年海盗1号、2号成功着陆，发现火星土壤化学活性异常。1997年探路者号送去第一辆火星车索杰纳；2004年勇气号与机遇号着陆，机遇号超期服役14年；2008年凤凰号在北极挖到水冰；2012年好奇号着陆盖尔坑；2018年洞察号探测火星震，揭示了核幔结构。2021年毅力号着陆杰泽罗坑，机智号直升机实现地外首次动力飞行，制氧实验MOXIE还从二氧化碳中制出了氧气；同年，中国天问一号的祝融号成功着陆，一次实现绕、落、巡。中国计划2030年前后实现火星采样返回。中国成为第二个在火星表面巡视的国家。毅力号采集的样本管已封存于火星表面，等待未来的取回任务。天问三号计划2030年前后实现采样返回。",
+        "body_en": "Mariner 4 flew by in 1965; the Soviet Mars 3 landed in 1971 but lasted 20 seconds; Viking 1 and 2 landed in 1976. Pathfinder delivered the first rover, Sojourner, in 1997; Spirit and Opportunity landed in 2004, with Opportunity surviving 14 years; Phoenix dug up water ice in 2008; Curiosity landed in 2012; InSight probed marsquakes from 2018. In 2021 Perseverance landed in Jezero with Ingenuity — the first powered flight on another world — and MOXIE made oxygen from CO2; China's Zhurong landed via Tianwen-1 the same year, orbiting, landing, and roving in one mission. China plans a Mars sample return around 2030."
+      }
+    ],
+    "sources": [
+      "NASA Mars Fact Sheet (nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html)",
+      "NASA Planetary Fact Sheet",
+      "Wikipedia: Valles Marineris / Jezero (crater) / Hellas Planitia / List of mountains on Mars"
+    ],
+    "summary_zh": "火星是一颗寒冷、多尘的岩石行星，干涸河道和矿物记录保存着古代水活动的线索。",
+    "summary_en": "Mars is a cold, dusty rocky world whose ancient channels and minerals preserve evidence of past water.",
+    "source_url": "https://science.nasa.gov/mars/facts/"
+  },
+  {
+    "id": "jupiter",
+    "name_zh": "木星",
+    "name_en": "Jupiter",
+    "au": 5.204,
+    "params": [
+      {
+        "k_zh": "半径",
+        "k_en": "Radius",
+        "v": "69,911 km"
+      },
+      {
+        "k_zh": "质量",
+        "k_en": "Mass",
+        "v": "1.898×10²⁷ kg"
+      },
+      {
+        "k_zh": "平均密度",
+        "k_en": "Mean density",
+        "v": "1,326 kg/m³"
+      },
+      {
+        "k_zh": "表面重力",
+        "k_en": "Gravity (1 bar)",
+        "v": "25.92 m/s²"
+      },
+      {
+        "k_zh": "逃逸速度",
+        "k_en": "Escape velocity",
+        "v": "59.5 km/s"
+      },
+      {
+        "k_zh": "距日距离",
+        "k_en": "Distance from Sun",
+        "v": "5.204 AU"
+      },
+      {
+        "k_zh": "公转周期",
+        "k_en": "Orbital period",
+        "v": "11.86 年",
+        "v_en": "11.86 years"
+      },
+      {
+        "k_zh": "自转周期",
+        "k_en": "Rotation period",
+        "v": "9.93 小时",
+        "v_en": "9.93 h"
+      },
+      {
+        "k_zh": "平均温度",
+        "k_en": "Mean temperature",
+        "v": "-110°C"
+      },
+      {
+        "k_zh": "卫星数",
+        "k_en": "Natural satellites",
+        "v": "95"
+      },
+      {
+        "k_zh": "环系统",
+        "k_en": "Ring system",
+        "v": "有（暗淡）",
+        "v_en": "Yes (faint)"
+      }
+    ],
+    "atmosphere": [
+      {
+        "name_zh": "氢",
+        "name_en": "H₂",
+        "pct": 89.8
+      },
+      {
+        "name_zh": "氦",
+        "name_en": "He",
+        "pct": 10.2
+      },
+      {
+        "name_zh": "甲烷",
+        "name_en": "CH₄",
+        "pct": 0.3
+      }
+    ],
+    "surface_pressure": ">>1,000 bar（深层，位置未知）",
+    "landmarks": [
+      {
+        "name_zh": "大红斑",
+        "name_en": "Great Red Spot",
+        "lat": -20,
+        "lon": 300,
+        "desc_zh": "持续至少300年的巨型风暴，直径超过地球（示意位置）。",
+        "desc_en": "A giant storm raging for at least 300 years, wider than Earth (representative location)."
+      },
+      {
+        "name_zh": "椭圆BA白斑",
+        "name_en": "Oval BA",
+        "lat": -33,
+        "lon": 60,
+        "desc_zh": "2000年由三个白斑合并形成，曾短暂变红被称为小红斑（示意位置）。",
+        "desc_en": "Formed in 2000 from three merging white ovals; briefly turned red (representative location)."
+      },
+      {
+        "name_zh": "北极气旋群",
+        "name_en": "North Polar Cyclones",
+        "lat": 85,
+        "lon": 0,
+        "desc_zh": "朱诺号发现的北极8个气旋组成的稳定多边形结构（示意位置）。",
+        "desc_en": "A stable octagon of 8 cyclones around the north pole found by Juno (representative location)."
+      },
+      {
+        "name_zh": "南极气旋群",
+        "name_en": "South Polar Cyclones",
+        "lat": -85,
+        "lon": 0,
+        "desc_zh": "朱诺号发现的南极5个气旋组成的五边形结构（示意位置）。",
+        "desc_en": "A pentagon of 5 cyclones around the south pole found by Juno (representative location)."
+      }
+    ],
+    "articles": [
+      {
+        "title_zh": "行星之王与引力盾牌",
+        "title_en": "King of Planets, Gravitational Shield",
+        "body_zh": "木星质量是其他七颗行星总和的2.5倍，达318倍地球质量，强大的引力塑造了太阳系的结构：它可能阻止了小行星带聚合成行星，也偏转了大量彗星和小行星，充当内太阳系的引力盾牌。1994年苏梅克-列维9号彗星撞击木星的壮观场面，正是这面盾牌工作的实证。没有木星，地球遭受天体撞击的频率可能高得多。大迁徙假说甚至认为，木星在太阳系早期曾向内迁移又向外移动，塑造了内行星的格局。2016年入轨的朱诺号正在探测它的引力场、磁场与深层大气，发现其核心可能是被氢稀释的模糊结构。木星特洛伊小行星群与它共用轨道，前后各有一大群。朱诺号2016年入轨，探测引力场与磁场，发现核心可能是被氢稀释的模糊结构，而非致密岩核。欧空局JUICE于2023年发射，2031年抵达木星系统。木星磁场是太阳系行星中最强的，磁层大到可装下太阳。",
+        "body_en": "Jupiter outweighs all other seven planets combined 2.5 times over — 318 Earth masses — and its gravity shaped the solar system: it likely prevented the asteroid belt from forming a planet and deflects countless comets and asteroids as the inner solar system's gravitational shield. The 1994 impact of Comet Shoemaker-Levy 9 showed the shield at work. Without Jupiter, Earth would suffer far more impacts. The Grand Tack hypothesis even suggests Jupiter migrated inward then outward early on, sculpting the inner planets. Juno, in orbit since 2016, is probing its gravity, magnetic field, and deep atmosphere."
+      },
+      {
+        "title_zh": "大红斑：三百年的风暴",
+        "title_en": "The Great Red Spot",
+        "body_zh": "大红斑是一场持续了至少300年的巨型风暴，一个高压反气旋，宽约16,000千米，鼎盛时可吞下三个地球，风速可达500公里/小时。早在1665年，卡西尼就可能观测到了它；1979年旅行者号拍下细节，显示其内部有复杂的涡流。颜色可能来自含硫或磷的化合物。近几十年的观测显示，大红斑正在缩小、颜色加深，2019年边缘还剥离出小涡旋。朱诺号的微波辐射计探测到风暴深入云层之下数百千米。科学家预计它可能在未来几十年进一步衰减，但彻底消失还需时日。大红斑宽约16,000千米，鼎盛时可吞下三个地球。颜色可能来自含硫或磷的化合物被上升气流带到高空。白色椭圆是类似的小型反气旋。哈勃与朱诺持续监视它的变化，科学家预计它可能在未来几十年进一步衰减。",
+        "body_en": "The Great Red Spot is a storm at least 300 years old — a high-pressure anticyclone ~16,000 km wide that once could swallow three Earths, with winds reaching 500 km/h. Cassini may have seen it in 1665; Voyager 1 imaged its intricate swirls in 1979. Its color may come from sulfur or phosphorus compounds. Recent decades show it shrinking and deepening in color, shedding small vortices in 2019. Juno's microwave radiometer found the storm extends hundreds of kilometers below the clouds. Further decay is expected in coming decades, though its end is still far off."
+      },
+      {
+        "title_zh": "伽利略卫星与冰下海洋",
+        "title_en": "The Galilean Moons",
+        "body_zh": "1610年，伽利略发现木星的四颗大卫星——木卫一、木卫二、木卫三、木卫四，为日心说提供了关键证据。木卫一是最活跃的火山世界，有400多座活火山；木卫三是太阳系最大的卫星，比水星还大，且有内禀磁场；木卫四表面布满40亿年的撞击坑。其中木卫二欧罗巴的冰壳下可能藏着深约100千米的液态水海洋，水量是地球海洋的两倍，是寻找地外生命的头号候选地之一。NASA的欧罗巴快船于2024年发射，2030年抵达后将44次飞掠，用冰穿透雷达探测冰壳；欧空局的JUICE也在前往木星卫星系统的路上，重点研究木卫三。木卫一是最活跃的火山世界，潮汐加热驱动着喷发。木卫四表面布满40亿年的撞击坑，是太阳系最古老的地貌之一。欧罗巴冰壳厚约20千米，海洋深约100千米，水量是地球海洋的两倍。",
+        "body_en": "In 1610 Galileo discovered Jupiter's four large moons — Io, Europa, Ganymede, Callisto — key evidence for heliocentrism. Io is the most volcanic world known with 400+ active volcanoes; Ganymede is the solar system's largest moon, bigger than Mercury, with its own magnetic field; Callisto wears 4-billion-year-old craters. Beneath Europa's ice shell may hide a ~100 km deep ocean holding twice Earth's water — a top target in the search for life. NASA's Europa Clipper launched in 2024 and arrives in 2030 for 44 flybys with ice-penetrating radar; ESA's JUICE is also en route, focused on Ganymede."
+      }
+    ],
+    "sources": [
+      "NASA Jupiter Fact Sheet (nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html)",
+      "NASA Planetary Fact Sheet"
+    ],
+    "summary_zh": "木星是太阳系最大的行星，流动的大气带和持续已久的风暴覆盖着这颗气态巨行星。",
+    "summary_en": "Jupiter is the largest planet, a gas giant wrapped in flowing cloud bands and long-lived storms.",
+    "source_url": "https://science.nasa.gov/jupiter/jupiter-facts/"
+  },
+  {
+    "id": "saturn",
+    "name_zh": "土星",
+    "name_en": "Saturn",
+    "au": 9.573,
+    "params": [
+      {
+        "k_zh": "半径",
+        "k_en": "Radius",
+        "v": "58,232 km"
+      },
+      {
+        "k_zh": "质量",
+        "k_en": "Mass",
+        "v": "5.683×10²⁶ kg"
+      },
+      {
+        "k_zh": "平均密度",
+        "k_en": "Mean density",
+        "v": "687 kg/m³"
+      },
+      {
+        "k_zh": "表面重力",
+        "k_en": "Gravity (1 bar)",
+        "v": "11.19 m/s²"
+      },
+      {
+        "k_zh": "逃逸速度",
+        "k_en": "Escape velocity",
+        "v": "35.5 km/s"
+      },
+      {
+        "k_zh": "距日距离",
+        "k_en": "Distance from Sun",
+        "v": "9.573 AU"
+      },
+      {
+        "k_zh": "公转周期",
+        "k_en": "Orbital period",
+        "v": "29.45 年",
+        "v_en": "29.45 years"
+      },
+      {
+        "k_zh": "自转周期",
+        "k_en": "Rotation period",
+        "v": "10.66 小时",
+        "v_en": "10.66 h"
+      },
+      {
+        "k_zh": "平均温度",
+        "k_en": "Mean temperature",
+        "v": "-140°C"
+      },
+      {
+        "k_zh": "卫星数",
+        "k_en": "Natural satellites",
+        "v": "274"
+      },
+      {
+        "k_zh": "环系统",
+        "k_en": "Ring system",
+        "v": "有（壮观）",
+        "v_en": "Yes (prominent)"
+      }
+    ],
+    "atmosphere": [
+      {
+        "name_zh": "氢",
+        "name_en": "H₂",
+        "pct": 96.3
+      },
+      {
+        "name_zh": "氦",
+        "name_en": "He",
+        "pct": 3.25
+      },
+      {
+        "name_zh": "甲烷",
+        "name_en": "CH₄",
+        "pct": 0.45
+      }
+    ],
+    "surface_pressure": ">>1,000 bar（深层，位置未知）",
+    "landmarks": [
+      {
+        "name_zh": "北极六边形",
+        "name_en": "North Polar Hexagon",
+        "lat": 78,
+        "lon": 0,
+        "desc_zh": "北极上空边长约1.4万千米的六边形急流，成因至今未完全解开（示意位置）。",
+        "desc_en": "A hexagonal jet stream ~14,000 km per side over the north pole; its cause is still debated (representative location)."
+      },
+      {
+        "name_zh": "大白斑",
+        "name_en": "Great White Spot",
+        "lat": 35,
+        "lon": 0,
+        "desc_zh": "约每30年出现一次的巨型风暴，2010年的一次持续了大半年（示意位置）。",
+        "desc_en": "A giant storm erupting roughly every 30 years; the 2010 one lasted months (representative location)."
+      },
+      {
+        "name_zh": "卡西尼环缝",
+        "name_en": "Cassini Division",
+        "lat": 0,
+        "lon": 0,
+        "desc_zh": "土星环A环与B环之间宽约4,800千米的空隙（示意位置）。",
+        "desc_en": "The ~4,800 km gap between Saturn's A and B rings (representative location)."
+      },
+      {
+        "name_zh": "土星环",
+        "name_en": "Saturn's Rings",
+        "lat": 0,
+        "lon": 0,
+        "desc_zh": "宽28万千米、薄仅约10米的冰颗粒环，太阳系最壮观的行星环（示意位置）。",
+        "desc_en": "280,000 km wide yet only ~10 m thick — the solar system's grandest rings (representative location)."
+      }
+    ],
+    "articles": [
+      {
+        "title_zh": "光环从何而来",
+        "title_en": "Where the Rings Came From",
+        "body_zh": "土星环宽达28万千米，却薄得只有约10米，主要由纯度很高的水冰颗粒组成，从微尘到房屋大小不等，分为D、C、B、A、F、G、E七条主环。主流理论认为，它们来自一颗在洛希极限内被潮汐力撕碎的冰卫星，或是彗星撞击的碎片——在极限之内，潮汐力阻止颗粒聚合成卫星。恩克环缝中还有牧羊犬卫星土卫潘在守护。卡西尼号2017年穿越环缝的测量显示，环物质正以每年数吨的速度沿磁力线坠入土星，形成环雨，环的年龄可能仅1至4亿年，相对年轻——我们恰好生活在能看到壮观土星环的时代。光环分为D、C、B、A、F、G、E七条主环，其中B环最亮最宽。恩克环缝由牧羊犬卫星土卫潘守护，潘的引力清扫出这条325千米宽的缝隙。F环纤细多变，土卫普罗米修斯的引力不断塑造着它。",
+        "body_en": "Saturn's rings span 280,000 km yet are only ~10 m thick, made mostly of high-purity water-ice particles from dust to house-sized chunks, in seven main rings D through E. They likely came from an ice moon torn apart inside the Roche limit — where tides prevent particles from regrouping into a moon — or from a shattered comet. The shepherd moon Pan guards the Encke Gap. Cassini's 2017 dives found ring material raining onto Saturn at tons per year along magnetic field lines; the rings may be just 100-400 million years old. We live in the era that gets to see them."
+      },
+      {
+        "title_zh": "土卫六泰坦：另一个地球",
+        "title_en": "Titan: Another Earth?",
+        "body_zh": "土卫六泰坦直径5,150千米，比水星还大，是太阳系唯一拥有浓密大气层的卫星，大气比地球的还厚，主要成分为氮（95%）和甲烷。表面温度-179°C，有液态甲烷的湖泊、河流与雨水循环——只是那里的雨是甲烷。卡西尼雷达发现，北极的克拉肯海比北美五大湖还大。2005年，惠更斯号着陆器穿越大气层着陆，工作了70分钟，传回河床与鹅卵石的照片。NASA的蜻蜓号旋翼无人机将于2028年发射，2034年抵达泰坦，在多处地点起降飞行上百千米，寻找生命的前体化学物质。泰坦表面温度-179°C，甲烷湖泊集中在北极。惠更斯号着陆点附近遍布水冰鹅卵石。泰坦可能拥有地下水海洋，藏在冰壳之下50至100千米处，那里或许是另一处生命可能栖身之所。",
+        "body_en": "Titan is 5,150 km wide — bigger than Mercury — and the only moon with a thick atmosphere, denser than Earth's, of nitrogen (95%) and methane. At -179°C its surface hosts lakes, rivers, and rain of liquid methane; Cassini radar found the northern Kraken Mare larger than North America's Great Lakes. In 2005 Huygens landed and worked for 70 minutes, photographing riverbeds and pebbles. NASA's Dragonfly rotorcraft launches in 2028 and arrives in 2034, hopping between sites over a hundred kilometers to hunt for prebiotic chemistry."
+      },
+      {
+        "title_zh": "卡西尼号的伟大谢幕",
+        "title_en": "Cassini's Grand Finale",
+        "body_zh": "1997年发射、2004年抵达的卡西尼-惠更斯号是NASA、欧空局与意大利航天局合作的旗舰任务，环绕土星13年。2005年惠更斯号在泰坦着陆；卡西尼发现了土卫二南极喷射的冰间歇泉，羽流中含有水冰、氢气与有机物，证实其冰下海洋的存在；绘制了土卫六的甲烷湖泊；还发现了6颗新卫星。2017年，卡西尼22次穿越土星环缝，测得环的质量。9月15日，燃料耗尽的卡西尼号主动冲入土星大气层焚毁，以免污染可能存在生命的卫星，完成了名为大终章的谢幕，传回数据直到最后一秒。卡西尼-惠更斯号1997年10月发射，2004年7月1日入轨。惠更斯号2005年1月14日在泰坦着陆。卡西尼绘制了土卫六的甲烷湖泊地图，发现了土卫二羽流。任务共传回63.5万张图像，数据量达635GB。",
+        "body_en": "Launched in 1997 and arriving in 2004, the Cassini-Huygens flagship — a NASA, ESA, and Italian Space Agency collaboration — orbited Saturn for 13 years. Huygens landed on Titan in 2005; Cassini found Enceladus's south-polar ice geysers, whose plumes of water ice, hydrogen, and organics confirmed a subsurface ocean; it mapped Titan's methane lakes and discovered 6 new moons. In 2017 Cassini dove through the ring gap 22 times, weighing the rings. On September 15, out of fuel, it plunged into Saturn to avoid contaminating potentially habitable moons — the Grand Finale, transmitting until the last second."
+      }
+    ],
+    "sources": [
+      "NASA Saturn Fact Sheet (nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html)",
+      "NASA Planetary Fact Sheet"
+    ],
+    "summary_zh": "土星是一颗密度很低的气态巨行星，以由冰与岩石碎片组成的壮观环系闻名。",
+    "summary_en": "Saturn is a low-density gas giant surrounded by spectacular rings of ice and rocky debris.",
+    "source_url": "https://science.nasa.gov/saturn/facts/"
+  },
+  {
+    "id": "uranus",
+    "name_zh": "天王星",
+    "name_en": "Uranus",
+    "au": 19.191,
+    "params": [
+      {
+        "k_zh": "半径",
+        "k_en": "Radius",
+        "v": "25,362 km"
+      },
+      {
+        "k_zh": "质量",
+        "k_en": "Mass",
+        "v": "8.681×10²⁵ kg"
+      },
+      {
+        "k_zh": "平均密度",
+        "k_en": "Mean density",
+        "v": "1,270 kg/m³"
+      },
+      {
+        "k_zh": "表面重力",
+        "k_en": "Gravity (1 bar)",
+        "v": "9.01 m/s²"
+      },
+      {
+        "k_zh": "逃逸速度",
+        "k_en": "Escape velocity",
+        "v": "21.3 km/s"
+      },
+      {
+        "k_zh": "距日距离",
+        "k_en": "Distance from Sun",
+        "v": "19.191 AU"
+      },
+      {
+        "k_zh": "公转周期",
+        "k_en": "Orbital period",
+        "v": "84.01 年",
+        "v_en": "84.01 years"
+      },
+      {
+        "k_zh": "自转周期",
+        "k_en": "Rotation period",
+        "v": "17.24 小时（逆行）",
+        "v_en": "17.24 h (retrograde)"
+      },
+      {
+        "k_zh": "自转轴倾角",
+        "k_en": "Axial tilt",
+        "v": "97.77°"
+      },
+      {
+        "k_zh": "平均温度",
+        "k_en": "Mean temperature",
+        "v": "-195°C"
+      },
+      {
+        "k_zh": "卫星数",
+        "k_en": "Natural satellites",
+        "v": "28"
+      },
+      {
+        "k_zh": "环系统",
+        "k_en": "Ring system",
+        "v": "有（暗淡）",
+        "v_en": "Yes (faint)"
+      }
+    ],
+    "atmosphere": [
+      {
+        "name_zh": "氢",
+        "name_en": "H₂",
+        "pct": 82.5
+      },
+      {
+        "name_zh": "氦",
+        "name_en": "He",
+        "pct": 15.2
+      },
+      {
+        "name_zh": "甲烷",
+        "name_en": "CH₄",
+        "pct": 2.3
+      }
+    ],
+    "surface_pressure": ">>1,000 bar（深层，位置未知）",
+    "landmarks": [
+      {
+        "name_zh": "暗涡旋",
+        "name_en": "Dark Vortex",
+        "lat": -30,
+        "lon": 0,
+        "desc_zh": "哈勃2006年发现的大气暗斑，类似海王星大暗斑的风暴系统（示意位置）。",
+        "desc_en": "A dark storm vortex found by Hubble in 2006, akin to Neptune's Great Dark Spot (representative location)."
+      },
+      {
+        "name_zh": "极冠",
+        "name_en": "Polar Hood",
+        "lat": 90,
+        "lon": 0,
+        "desc_zh": "甲烷雾霾形成的极地亮冠，随42年一周期的季节变化而消长（示意位置）。",
+        "desc_en": "A bright methane-haze polar cap waxing and waning with the 42-year seasons (representative location)."
+      },
+      {
+        "name_zh": "甲烷云带",
+        "name_en": "Methane Cloud Bands",
+        "lat": 0,
+        "lon": 0,
+        "desc_zh": "赋予天王星青绿色的大气云带，风速可达250米/秒（示意位置）。",
+        "desc_en": "The cloud bands giving Uranus its teal color, with winds to 250 m/s (representative location)."
+      },
+      {
+        "name_zh": "天王星环",
+        "name_en": "Uranian Rings",
+        "lat": 0,
+        "lon": 0,
+        "desc_zh": "1977年掩星观测发现的13条暗淡窄环，几乎垂直于黄道面（示意位置）。",
+        "desc_en": "13 faint narrow rings found by stellar occultation in 1977, nearly perpendicular to the ecliptic (representative location)."
+      }
+    ],
+    "articles": [
+      {
+        "title_zh": "躺着转的行星",
+        "title_en": "The Sideways Planet",
+        "body_zh": "天王星自转轴倾角高达97.77°，几乎是躺在轨道平面上打滚，可能是远古时被一颗2至3倍地球质量的天体撞歪的。这导致它的两极轮流经历长达21年的极昼和极夜，是太阳系季节变化最极端的行星；极区一年中获得的日照甚至超过赤道。1781年赫歇尔发现天王星时，它是第一颗用望远镜发现的行星。1986年旅行者2号飞掠时，南极正对着太阳；如今轮到北极享受漫长的白昼，2028年左右将迎来北极夏至。韦伯望远镜正持续监视这场漫长的季节更替。1781年赫歇尔发现天王星，是第一颗用望远镜发现的行星。极区一年中获得的日照甚至超过赤道。撞击假说认为它曾被2至3倍地球质量的天体撞击。2028年左右将迎来北极夏至。韦伯望远镜正持续监视这场漫长的季节更替。",
+        "body_en": "Uranus's axis tilts 97.77° — it rolls around the Sun on its side, likely knocked over by a 2-3 Earth-mass impact long ago. Its poles take turns enduring 21-year polar days and nights, the most extreme seasons in the solar system; the poles even get more annual sunlight than the equator. Herschel's 1781 discovery made it the first planet found by telescope. When Voyager 2 flew by in 1986 the south pole faced the Sun; now the north pole enjoys its long day, with northern summer solstice around 2028. The Webb telescope keeps watch on the slow seasonal change."
+      },
+      {
+        "title_zh": "为什么是青绿色",
+        "title_en": "Why So Teal",
+        "body_zh": "天王星独特的青绿色来自大气中的甲烷（占2.3%）：甲烷吸收红光、反射蓝绿光。与木星土星的条带云不同，天王星大气看起来异常平静，但这只是表象——它的风速可达250米/秒。它还是行星大气温度最低的星球，最低达-224°C，比离太阳更远的海王星还冷，因为天王星内部几乎不向外散发热量。主流假说认为，远古的撞击抛掉了原始热量，或内部成分分层阻碍了对流。2023年，韦伯望远镜拍摄到天王星极冠与风暴的清晰细节，这顶甲烷雾霾形成的亮冠正随季节变化而消长。海王星更蓝，因为甲烷更多且雾霾不同。天王星1 bar处温度76K，0.1 bar处53K。内部热流几乎为零，假说认为撞击抛掉了原始热量，或内部成分分层阻碍了对流。2023年韦伯望远镜拍到极冠与风暴细节，甲烷雾霾亮冠随季节消长。",
+        "body_en": "Uranus's teal hue comes from atmospheric methane (2.3%), which absorbs red light and reflects blue-green. Unlike Jupiter's banded clouds, its atmosphere looks eerily calm — but winds reach 250 m/s. It also has the coldest planetary atmosphere, down to -224°C, colder than Neptune despite being closer to the Sun, because Uranus radiates almost no internal heat. Perhaps an ancient impact expelled its primordial heat, or compositional layering blocks convection. In 2023 the Webb telescope captured the bright methane-haze polar cap and storms in sharp detail."
+      },
+      {
+        "title_zh": "旅行者2号的唯一造访",
+        "title_en": "Voyager 2's Lone Visit",
+        "body_zh": "1986年1月24日，旅行者2号以8.15万千米的最近距离飞掠天王星，是人类唯一一次近距离探测这颗冰巨星。它发现了11颗新卫星、暗淡的环系统（13条窄环中的10条），以及磁场轴与自转轴偏离近60°的奇特磁场；还发现天卫五米兰达表面有诡异的V形 Chevron 地形，可能是远古撞击后重新拼合的。此后40年再无探测器到访，天王星成为被研究得最少的行星。此后哈勃、凯克与韦伯望远镜持续接力观测。行星科学十年调查已将天王星轨道器列为最高优先级的旗舰任务，有望在2040年代重返这颗青绿色的世界。旅行者2号发现天卫五米兰达表面有诡异的V形地形，可能是远古撞击后重新拼合。此后哈勃、凯克与韦伯望远镜持续接力观测。行星科学十年调查将天王星轨道器列为最高优先级旗舰任务，有望在2040年代重返。",
+        "body_en": "On January 24, 1986, Voyager 2 flew past Uranus at 81,500 km — humanity's only close-up visit to this ice giant. It found 11 new moons, faint narrow rings, and a magnetic field tilted nearly 60° from the spin axis; Miranda's surface bore bizarre chevron terrain, perhaps reassembled after an ancient shattering impact. No spacecraft has returned in the 40 years since, making Uranus the least-studied planet. Hubble, Keck, and Webb have kept watch since. The planetary science decadal survey ranks a Uranus orbiter as the top flagship priority, possibly returning in the 2040s."
+      }
+    ],
+    "sources": [
+      "NASA Uranus Fact Sheet (nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html)",
+      "NASA Planetary Fact Sheet"
+    ],
+    "summary_zh": "天王星是一颗自转轴几乎横躺的冰巨行星，大气中的甲烷赋予它蓝绿色外观。",
+    "summary_en": "Uranus is an ice giant tilted almost onto its side, with methane giving its atmosphere a blue-green hue.",
+    "source_url": "https://science.nasa.gov/uranus/facts/"
+  },
+  {
+    "id": "neptune",
+    "name_zh": "海王星",
+    "name_en": "Neptune",
+    "au": 30.069,
+    "params": [
+      {
+        "k_zh": "半径",
+        "k_en": "Radius",
+        "v": "24,622 km"
+      },
+      {
+        "k_zh": "质量",
+        "k_en": "Mass",
+        "v": "1.024×10²⁶ kg"
+      },
+      {
+        "k_zh": "平均密度",
+        "k_en": "Mean density",
+        "v": "1,638 kg/m³"
+      },
+      {
+        "k_zh": "表面重力",
+        "k_en": "Gravity (1 bar)",
+        "v": "11.27 m/s²"
+      },
+      {
+        "k_zh": "逃逸速度",
+        "k_en": "Escape velocity",
+        "v": "23.5 km/s"
+      },
+      {
+        "k_zh": "距日距离",
+        "k_en": "Distance from Sun",
+        "v": "30.069 AU"
+      },
+      {
+        "k_zh": "公转周期",
+        "k_en": "Orbital period",
+        "v": "164.79 年",
+        "v_en": "164.79 years"
+      },
+      {
+        "k_zh": "自转周期",
+        "k_en": "Rotation period",
+        "v": "16.11 小时",
+        "v_en": "16.11 h"
+      },
+      {
+        "k_zh": "平均温度",
+        "k_en": "Mean temperature",
+        "v": "-200°C"
+      },
+      {
+        "k_zh": "卫星数",
+        "k_en": "Natural satellites",
+        "v": "16"
+      },
+      {
+        "k_zh": "环系统",
+        "k_en": "Ring system",
+        "v": "有（暗淡）",
+        "v_en": "Yes (faint)"
+      }
+    ],
+    "atmosphere": [
+      {
+        "name_zh": "氢",
+        "name_en": "H₂",
+        "pct": 80
+      },
+      {
+        "name_zh": "氦",
+        "name_en": "He",
+        "pct": 19
+      },
+      {
+        "name_zh": "甲烷",
+        "name_en": "CH₄",
+        "pct": 1.5
+      }
+    ],
+    "surface_pressure": ">>1,000 bar（深层，位置未知）",
+    "landmarks": [
+      {
+        "name_zh": "大暗斑",
+        "name_en": "Great Dark Spot",
+        "lat": -20,
+        "lon": 0,
+        "desc_zh": "1989年旅行者2号发现的巨型风暴，后来消失，类似木星大红斑的反气旋（示意位置）。",
+        "desc_en": "A giant storm seen by Voyager 2 in 1989 that later vanished, an anticyclone like Jupiter's (representative location)."
+      },
+      {
+        "name_zh": "暗斑2",
+        "name_en": "Dark Spot 2",
+        "lat": -55,
+        "lon": 0,
+        "desc_zh": "旅行者2号发现的第二个暗斑系统，风暴在海王星上来去匆匆（示意位置）。",
+        "desc_en": "A second dark storm system seen by Voyager 2; Neptunian storms come and go (representative location)."
+      },
+      {
+        "name_zh": "滑行者云",
+        "name_en": "Scooter",
+        "lat": -42,
+        "lon": 0,
+        "desc_zh": "1989年观测到的明亮白云，以极快速度掠过大暗斑（示意位置）。",
+        "desc_en": "A bright white cloud seen in 1989 racing past the Great Dark Spot (representative location)."
+      },
+      {
+        "name_zh": "南极波",
+        "name_en": "South Polar Wave",
+        "lat": -60,
+        "lon": 0,
+        "desc_zh": "环绕南极的波状暗带，是海王星大气中最稳定的结构之一（示意位置）。",
+        "desc_en": "A wavy dark band circling the south pole, one of Neptune's most stable features (representative location)."
+      }
+    ],
+    "articles": [
+      {
+        "title_zh": "笔尖上发现的行星",
+        "title_en": "Found at the Tip of a Pen",
+        "body_zh": "1846年，法国数学家勒维耶根据天王星轨道的异常，用牛顿力学计算出未知行星的位置，德国天文学家伽勒于9月23日在预测位置1°范围内找到了它——海王星成为第一颗通过数学预测发现的行星，这是理论物理的辉煌胜利。英国的亚当斯也独立完成了计算，英法之间关于发现权的争论持续多年。海王星以罗马海神命名，公转一周需要164.79年，直到2011年7月12日，它才走完被发现后的第一个完整公转。旅行者2号1989年的飞掠至今仍是人类唯一一次近距离探测。亚当斯也独立计算了海王星的位置，英法之争持续多年。海王星以罗马海神命名。1846年发现至今仅公转约1.08圈。2011年7月12日完成发现后首圈。旅行者2号1989年的飞掠至今仍是唯一近距离探测。",
+        "body_en": "In 1846 Urbain Le Verrier used Newton's laws to calculate the position of an unknown planet from Uranus's orbital quirks, and on September 23 Johann Galle found Neptune within 1° of the prediction — the first planet discovered by mathematics, a triumph of theory. Britain's John Couch Adams had calculated it independently, sparking a years-long Franco-British priority dispute. Named for the Roman god of the sea, Neptune takes 164.79 years per orbit; it completed its first full circuit since discovery only on July 12, 2011. Voyager 2's 1989 flyby remains humanity's sole close visit."
+      },
+      {
+        "title_zh": "太阳系最强的风",
+        "title_en": "The Strongest Winds",
+        "body_zh": "海王星风速可达2,100公里/小时，是太阳系行星中最强的，足以在几小时内撕碎地球上的任何风暴。诡异的是，它只接收到地球千分之一的阳光，能量却从哪里来？答案可能是内部热源——海王星辐射出的热量是接收太阳能的2.6倍，内部热流在类木行星中名列前茅。1989年旅行者2号看到的大暗斑宽13,000千米，是类似木星大红斑的反气旋，但1994年哈勃观测时它已消失，说明海王星的风暴系统来去匆匆。2020年代哈勃又发现新的暗斑生成又消散，变化莫测。海王星有逆行的赤道急流。内部热流在类木行星中名列前茅，暗斑可能是深色物质从深层上涌所致。2020年代哈勃发现新的暗斑生成又消散，变化莫测。海王星的蓝色来自甲烷，与天王星同源但颜色更深。",
+        "body_en": "Neptune's winds reach 2,100 km/h, the strongest of any planet — enough to shred any Earth storm in hours. Strangely, it receives only a thousandth of Earth's sunlight, so where does the energy come from? Likely an internal heat source: Neptune radiates 2.6 times the energy it gets from the Sun. The Great Dark Spot seen by Voyager 2 in 1989 was 13,000 km wide, an anticyclone like Jupiter's Red Spot — but it had vanished by 1994, showing Neptunian storms come and go. Hubble watched new dark spots form and fade in the 2020s."
+      },
+      {
+        "title_zh": "海卫一：逆行的冰世界",
+        "title_en": "Triton: The Backward Ice World",
+        "body_zh": "海卫一是太阳系最大的逆行卫星，直径2,707千米，很可能是一颗被海王星捕获的柯伊伯带天体——或许曾是双天体系统的一员。1846年，威廉·拉塞尔在发现海王星仅17天后就找到了它。1989年，旅行者2号发现它表面有氮气间歇泉在喷发，喷流高达8千米；表面覆盖氮冰与甲烷冰，粉色来自托林有机物。在-235°C的严寒中，它是太阳系最冷的天体之一。它的逆行轨道正在衰减：约36亿年后，海卫一可能抵达洛希极限，被潮汐力撕碎，形成一圈壮观的新光环。威廉·拉塞尔在发现海王星17天后找到了海卫一。表面覆盖氮冰与甲烷冰，粉色来自托林有机物。间歇泉喷发氮气携尘埃高达8千米。捕获假说认为它曾是双天体之一。轨道衰减，约36亿年后可能抵达洛希极限被撕碎成环。",
+        "body_en": "Triton is the largest retrograde moon in the solar system at 2,707 km wide, probably a captured Kuiper Belt object — perhaps once half of a binary pair. William Lassell found it just 17 days after Neptune's discovery in 1846. In 1989 Voyager 2 caught nitrogen geysers erupting 8 km high from its surface; nitrogen and methane ices, pinked by tholin organics, coat the ground. At -235°C it is among the coldest worlds known. Its backward orbit is decaying — in ~3.6 billion years Triton may reach the Roche limit and be torn into a spectacular new ring."
+      }
+    ],
+    "sources": [
+      "NASA Neptune Fact Sheet (nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html)",
+      "NASA Planetary Fact Sheet"
+    ],
+    "summary_zh": "海王星是距离太阳最远的行星，这颗寒冷的冰巨行星拥有强风和不断变化的云层。",
+    "summary_en": "Neptune is the most distant planet, a cold ice giant with powerful winds and changing clouds.",
+    "source_url": "https://science.nasa.gov/neptune/neptune-facts/"
+  },
+  {
+    "id": "pluto",
+    "name_zh": "冥王星",
+    "name_en": "Pluto",
+    "au": 39.482,
+    "params": [
+      {
+        "k_zh": "半径",
+        "k_en": "Radius",
+        "v": "1,188 km"
+      },
+      {
+        "k_zh": "质量",
+        "k_en": "Mass",
+        "v": "1.303×10²² kg"
+      },
+      {
+        "k_zh": "平均密度",
+        "k_en": "Mean density",
+        "v": "1,854 kg/m³"
+      },
+      {
+        "k_zh": "表面重力",
+        "k_en": "Surface gravity",
+        "v": "0.62 m/s²"
+      },
+      {
+        "k_zh": "逃逸速度",
+        "k_en": "Escape velocity",
+        "v": "1.21 km/s"
+      },
+      {
+        "k_zh": "距日距离",
+        "k_en": "Distance from Sun",
+        "v": "39.482 AU"
+      },
+      {
+        "k_zh": "公转周期",
+        "k_en": "Orbital period",
+        "v": "247.94 年",
+        "v_en": "247.94 years"
+      },
+      {
+        "k_zh": "自转周期",
+        "k_en": "Rotation period",
+        "v": "153.29 小时（逆行）",
+        "v_en": "153.29 h (retrograde)"
+      },
+      {
+        "k_zh": "平均温度",
+        "k_en": "Mean temperature",
+        "v": "-229°C"
+      },
+      {
+        "k_zh": "表面气压",
+        "k_en": "Surface pressure",
+        "v": "~13 microbar"
+      },
+      {
+        "k_zh": "卫星数",
+        "k_en": "Natural satellites",
+        "v": "5（卡戎等）",
+        "v_en": "5 (including Charon)"
+      },
+      {
+        "k_zh": "发现",
+        "k_en": "Discovery",
+        "v": "1930年，克莱德·汤博",
+        "v_en": "1930, Clyde Tombaugh"
+      }
+    ],
+    "atmosphere": [
+      {
+        "name_zh": "氮",
+        "name_en": "N₂",
+        "pct": 99
+      },
+      {
+        "name_zh": "甲烷",
+        "name_en": "CH₄",
+        "pct": 0.5
+      },
+      {
+        "name_zh": "一氧化碳",
+        "name_en": "CO",
+        "pct": 0.05
+      }
+    ],
+    "surface_pressure": "~13 microbar",
+    "landmarks": [
+      {
+        "name_zh": "斯普特尼克平原",
+        "name_en": "Sputnik Planitia",
+        "lat": 20,
+        "lon": 180,
+        "desc_zh": "冥王星心脏左叶的氮冰平原，布满对流单元，地质年龄极年轻。",
+        "desc_en": "The nitrogen-ice plain of the heart's left lobe, covered in convection cells and geologically young."
+      },
+      {
+        "name_zh": "汤博区",
+        "name_en": "Tombaugh Regio",
+        "lat": 10,
+        "lon": 180,
+        "desc_zh": "著名的心脏地形，以发现者汤博命名，宽约1,590千米（示意位置）。",
+        "desc_en": "The famous heart feature named for discoverer Tombaugh, ~1,590 km wide (representative location)."
+      },
+      {
+        "name_zh": "赖特山",
+        "name_en": "Wright Mons",
+        "lat": -21.36,
+        "lon": 173.24,
+        "desc_zh": "直径约150千米的疑似冰火山，顶部有深洼地，以莱特兄弟命名。",
+        "desc_en": "A ~150 km likely cryovolcano with a deep summit depression, named for the Wright brothers."
+      },
+      {
+        "name_zh": "贝尔顿区",
+        "name_en": "Belton Regio",
+        "lat": -5,
+        "lon": 65,
+        "desc_zh": "沿赤道绵延近3,000千米的暗色鲸鱼状区域，曾称克苏鲁斑（示意位置）。",
+        "desc_en": "A ~3,000 km dark whale-shaped equatorial region, formerly Cthulhu Macula (representative location)."
+      },
+      {
+        "name_zh": "希拉里山脉",
+        "name_en": "Hillary Montes",
+        "lat": -8,
+        "lon": 170,
+        "desc_zh": "汤博区边缘高达3,400米的水冰山脉，以登山家希拉里命名（示意位置）。",
+        "desc_en": "Water-ice mountains up to 3,400 m on Tombaugh Regio's edge, named for Edmund Hillary (representative location)."
+      }
+    ],
+    "articles": [
+      {
+        "title_zh": "从行星到矮行星",
+        "title_en": "From Planet to Dwarf Planet",
+        "body_zh": "1930年2月18日，克莱德·汤博在洛威尔天文台发现了冥王星，它成为第九大行星，名字取自罗马冥王。冥王星轨道偏心率0.244、倾角17°，1979至1999年间它甚至比海王星更靠近太阳。2006年布拉格国际天文联合会大会上，行星被定义为满足三个条件的天体：绕太阳公转、呈球形、清空轨道邻域。冥王星与柯伊伯带共享轨道，未能清空邻域，被归为矮行星，编号134340。导火索是阋神星的发现——它比冥王星更重。冥王星与卡戎的质心位于两者之外，构成双矮行星系统。洛威尔曾预言X行星的存在。1979至1999年冥王星比海王星更靠近太阳。阋神星比冥王星更重，促成重新分类。冥王星与卡戎质心在两者之外，构成双矮行星系统。柯伊伯带可能藏着数百颗矮行星。",
+        "body_en": "On February 18, 1930, Clyde Tombaugh discovered Pluto at Lowell Observatory and it became the ninth planet, named for the Roman god of the underworld. Its orbit is eccentric (0.244) and tilted 17°; from 1979 to 1999 it was closer to the Sun than Neptune. At the 2006 IAU meeting in Prague, a planet was defined by three tests — orbit the Sun, be round, clear its neighborhood. Pluto shares its orbit with the Kuiper Belt and failed the third, becoming dwarf planet 134340. The trigger was Eris, found to be more massive than Pluto. The Pluto-Charon barycenter lies outside both bodies — a binary dwarf-planet system."
+      },
+      {
+        "title_zh": "新视野号的飞掠",
+        "title_en": "The New Horizons Flyby",
+        "body_zh": "2006年1月19日发射的新视野号经木星引力助推，飞行9年半，于2015年7月14日以12,500千米的最近距离飞掠冥王星，发回汤博区心脏地形的惊人照片：氮冰川、疑似冰火山赖特山、高达数千米的水冰山脉、刀锋般的冰原地貌。它证明这颗小小的冰世界地质活动至今仍在继续，颠覆了小天体早已冷却死亡的认知。6.45GB的数据用了16个月才传完。之后，新视野号在2019年飞掠了柯伊伯带天体阿罗科斯——一个44千米长的雪人形天体，如今正携带一枚冥王星邮票和硬币飞向星际空间。新视野号2006年1月19日发射，经木星引力助推加速。飞掠时最近距离仅12,500千米。2019年飞掠44千米长的雪人形天体阿罗科斯。如今它携带一枚冥王星邮票和两枚硬币，正飞向星际空间。",
+        "body_en": "Launched January 19, 2006, New Horizons took a Jupiter gravity assist and flew 9.5 years to its July 14, 2015 Pluto flyby at 12,500 km, returning stunning images of Tombaugh Regio's heart: nitrogen glaciers, the likely cryovolcano Wright Mons, water-ice mountains kilometers high, and bladed terrain. It proved this tiny ice world is still geologically active, overturning the idea that small bodies freeze dead. Its 6.45 GB of data took 16 months to downlink. In 2019 it flew by Kuiper Belt object Arrokoth — a 44 km snowman — and now carries a Pluto stamp and coins into interstellar space."
+      },
+      {
+        "title_zh": "心脏地形的冰川",
+        "title_en": "Glaciers of the Heart",
+        "body_zh": "斯普特尼克平原是冥王星心脏左叶的氮冰平原，直径约1,492千米，表面布满宽约30千米的对流单元，没有撞击坑，地质年龄可能只有18万年。氮冰像冰川一样从周围高地缓慢流向平原，甲烷雪覆盖着高达3至4千米的水冰山峰。冥王星还有稀薄的氮大气，表面气压仅约13微巴，主要成分为氮、甲烷和一氧化碳，蓝色雾霾层延伸200千米高。科学家推测冥王星可能拥有地下海洋，斯普特尼克盆地的撞击或许与之相关。这颗距太阳近60亿千米的冰矮星，用活跃的冰地质学告诉我们：小，也可以很精彩。斯普特尼克平原直径约1,492千米，对流单元宽约30千米。平原边缘有冰川流入的痕迹，还有风成沙丘。冥王星的雾霾由氮与甲烷光化学反应形成。这颗冰矮星用活跃的冰地质学告诉我们：小，也可以很精彩。",
+        "body_en": "Sputnik Planitia, the heart's left lobe, is a ~1,492 km nitrogen-ice plain covered in ~30 km convection cells with no craters — perhaps just 180,000 years old. Nitrogen ice flows like glaciers from surrounding highlands while methane snow caps water-ice peaks 3-4 km tall. Pluto holds a thin nitrogen atmosphere at ~13 microbars, with a blue haze layer 200 km high. Scientists suspect a subsurface ocean, possibly linked to the Sputnik basin impact. This ice dwarf, 6 billion km from the Sun, shows through active ice geology that small can still be spectacular."
+      }
+    ],
+    "sources": [
+      "NASA Pluto Fact Sheet (nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html)",
+      "NASA Planetary Fact Sheet",
+      "Wikipedia: Sputnik Planitia / Wright Mons / Geography of Pluto"
+    ],
+    "summary_zh": "冥王星是柯伊伯带中的矮行星，冰山、氮冰平原与稀薄大气构成了复杂而活跃的冰世界。",
+    "summary_en": "Pluto is a Kuiper Belt dwarf planet with ice mountains, nitrogen-ice plains and a thin atmosphere.",
+    "source_url": "https://science.nasa.gov/dwarf-planets/pluto/facts/"
+  }
+]
