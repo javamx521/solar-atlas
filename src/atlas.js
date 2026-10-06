@@ -17,6 +17,7 @@ const bodies=[
 const bodyIds={'太阳':'sun','水星':'mercury','金星':'venus','地球':'earth','火星':'mars','木星':'jupiter','土星':'saturn','天王星':'uranus','海王星':'neptune','冥王星':'pluto'};
 const bodyPinyin={'太阳':'taiyang ty','水星':'shuixing sx','金星':'jinxing jx','地球':'diqiu dq','火星':'huoxing hx','木星':'muxing mx','土星':'tuxing tx','天王星':'tianwangxing twx','海王星':'haiwangxing hwx','冥王星':'mingwangxing mwx'};
 const $=selector=>document.querySelector(selector);
+function assetURL(path){const versions=typeof ATLAS_ASSET_VERSIONS==='object'?ATLAS_ASSET_VERSIONS:{};return versions[path]?`${path}?v=${versions[path]}`:path}
 const ARROW_ICON='<svg class="arrow-icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M4 16 16 4M5 4h11v11"/></svg>';
 const $$=selector=>Array.from(document.querySelectorAll(selector));
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -34,12 +35,12 @@ const guideItems={zh:[['拖动','改变视角','单指或鼠标拖动，绕世�
 function bodyType(index){return index===0?'sun':index<5?'rock':index<7?'gas':index<9?'ice':'dwarf'}
 function t(key){return I18N[lang][key]}
 function displayName(body){return lang==='zh'?body.name:body.en[0]+body.en.slice(1).toLowerCase()}
-function textureStyle(body){return `--c:${body.color};${body.tex?`--texture:url('assets/${body.tex}')`:''}`}
+function textureStyle(body){return `--c:${body.color};${body.tex?`--texture:url('${assetURL('assets/'+body.tex)}')`:''}`}
 function bodyDossier(body){return dossiers.find(d=>d.id===bodyIds[body.name])}
 function translatedValue(value){if(lang==='zh')return value;return String(value).replace(/（月球）/g,' (Moon)').replace(/（/g,' (').replace(/）/g,')').replace(/天/g,' days').replace(/小时/g,' h').replace(/分钟/g,' min').replace(/个/g,'').replace(/有/g,'Yes').replace(/无/g,'None').replace(/约/g,'~')}
 
 async function loadPhase2(){
- const response=await fetch('data/bodies.json');
+ const response=await fetch(assetURL('data/bodies.json'));
  if(!response.ok)throw new Error(`Dossiers unavailable (${response.status})`);
  const data=await response.json();
  if(!Array.isArray(data)||!data.every(d=>d.id&&d.name_zh&&d.name_en))throw new Error('Invalid dossier data');

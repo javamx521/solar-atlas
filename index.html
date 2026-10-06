@@ -6,9 +6,9 @@
 <meta name="color-scheme" content="dark">
 <meta name="theme-color" content="#05080f">
 <meta name="description" content="在星光之间探索太阳、八大行星与冥王星。一个安静、沉浸、可交互的三维太阳系。">
-<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg?v=7b26fd5ac495">
 <title>Solar Atlas · 太阳系图谱</title>
-<link rel="stylesheet" href="src/styles.css">
+<link rel="stylesheet" href="src/styles.css?v=7d21ad09a29a">
 </head>
 <body>
 <main id="stage"><canvas id="spaceCanvas" tabindex="0" aria-label="三维太阳系，方向键切换天体，R 复位"></canvas></main>
@@ -33,9 +33,10 @@
 <div class="fallback" id="fallback" hidden><p id="fallbackMessage">当前设备无法呈现三维场景，天体档案仍可浏览。</p></div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <noscript><div class="noscript">请启用 JavaScript 以探索三维太阳系。Enable JavaScript to explore Solar Atlas.</div></noscript>
-<script src="vendor/three.min.js" defer></script>
-<script src="src/atlas.js" defer></script>
-<script src="src/scene.js" defer></script>
-<script src="src/boot.js" defer></script>
+<script src="vendor/three.min.js?v=9274bbcec8d9" defer></script>
+<script src="src/asset-manifest.js?v=e1c897ccf62d" defer></script>
+<script src="src/atlas.js?v=32577f125ae0" defer></script>
+<script src="src/scene.js?v=7670556479ef" defer></script>
+<script src="src/boot.js?v=30455c2cc7bf" defer></script>
 </body>
 </html>

@@ -3,6 +3,7 @@ import { spawnSync } from 'node:child_process';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 import { root } from './server.mjs';
+import { createHash } from 'node:crypto';
 
 for (const dir of ['src', 'tests']) {
   for (const entry of await readdir(path.join(root, dir))) {
@@ -17,7 +18,10 @@ const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map(match => match[1]);
 assert.equal(new Set(ids).size, ids.length, 'Duplicate HTML IDs');
 for (const match of html.matchAll(/(?:src|href)="([^"]+)"/g)) {
   if (/^(?:https?:|data:|#)/.test(match[1])) continue;
-  assert.ok((await stat(path.join(root, match[1]))).isFile(), `Missing HTML asset: ${match[1]}`);
+  const [asset,query='']=match[1].split('?');
+  assert.ok((await stat(path.join(root,asset))).isFile(), `Missing HTML asset: ${asset}`);
+  const version=new URLSearchParams(query).get('v');
+  if (version) assert.equal(version,createHash('sha256').update(await readFile(path.join(root,asset))).digest('hex').slice(0,12), `Stale resource version for ${asset}; run npm run version:assets`);
 }
 for (const entry of await readdir(path.join(root, 'data'))) {
   if (entry.endsWith('.json')) JSON.parse(await readFile(path.join(root, 'data', entry), 'utf8'));
