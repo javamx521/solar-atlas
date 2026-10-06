@@ -74,7 +74,7 @@ function loadSceneTexture(path, apply, color = true) {
     // No image request can strand the loading screen. A late image may still upgrade the fallback.
     const timeout=setTimeout(fail,8000);
     sceneState.cleanup.push(()=>{clearTimeout(timeout);finish(false);});
-    new THREE.TextureLoader().load(path,texture=>{
+    new THREE.TextureLoader().load(assetURL(path),texture=>{
       if(sceneState.disposed){texture.dispose();finish(false);return;}
       if(color)texture.encoding=THREE.sRGBEncoding;
       texture.anisotropy=Math.min(8,renderer.capabilities.getMaxAnisotropy());
