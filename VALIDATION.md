@@ -22,7 +22,9 @@ The controller tests execute the real application code with DOM stubs. The camer
 - Actual GPU performance, browser compatibility and physical touch-device behavior
 - Full scientific fact-check of every imported article or numerical value
 
-The implementation environment blocked browser access. No rendered screenshots were produced or represented as verified. `npm run test:browser` provides an optional desktop/mobile/no-WebGL smoke suite for an environment where browser execution is allowed.
+The implementation environment blocked localhost browser access. After the owner authorized publication, the public Pages site was opened in the cloud browser. That browser could not create a WebGL context, so only the deliberate catalog fallback and its interactions could be inspected; no 3D rendered screenshots or GPU/shader validation are claimed. `npm run test:browser` provides an optional desktop/mobile/no-WebGL smoke suite for an environment where browser execution and WebGL are available.
+
+Public deployment checks verified HTTP 200 responses and exact committed byte hashes for all 21 runtime assets. GitHub Pages built the publishing commit successfully.
 
 ## Publication
 
