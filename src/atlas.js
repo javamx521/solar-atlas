@@ -17,6 +17,7 @@ const bodies=[
 const bodyIds={'太阳':'sun','水星':'mercury','金星':'venus','地球':'earth','火星':'mars','木星':'jupiter','土星':'saturn','天王星':'uranus','海王星':'neptune','冥王星':'pluto'};
 const bodyPinyin={'太阳':'taiyang ty','水星':'shuixing sx','金星':'jinxing jx','地球':'diqiu dq','火星':'huoxing hx','木星':'muxing mx','土星':'tuxing tx','天王星':'tianwangxing twx','海王星':'haiwangxing hwx','冥王星':'mingwangxing mwx'};
 const $=selector=>document.querySelector(selector);
+const ARROW_ICON='<svg class="arrow-icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M4 16 16 4M5 4h11v11"/></svg>';
 const $$=selector=>Array.from(document.querySelectorAll(selector));
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const preference={get(key,fallback){try{return localStorage.getItem(`solar-atlas:${key}`)||fallback}catch{return fallback}},set(key,value){try{localStorage.setItem(`solar-atlas:${key}`,value)}catch{}}};
@@ -83,8 +84,8 @@ function dossierPanel(d){
  const atmo=(d.atmosphere||[]).map(a=>`<div class="atmo-row"><span>${esc(english?a.name_en:a.name_zh)}</span><div class="atmo-bar"><i style="width:${Math.min(100,Math.max(.5,Number(a.pct)||0))}%"></i></div><em>${esc(a.pct)}%</em></div>`).join('');
  const landmarks=(d.landmarks||[]).map(p=>`<div class="feature"><b>${esc(english?p.name_en:p.name_zh)}</b><p>${esc(english?p.desc_en:p.desc_zh)}</p></div>`).join('');
  const articles=(d.articles||[]).map(a=>`<details class="article"><summary>${esc(english?a.title_en:a.title_zh)}</summary><p>${esc(english?a.body_en:a.body_zh)}</p></details>`).join('');
- const source=/^https:\/\/(science\.)?nasa\.gov\//.test(d.source_url||'')?`<a class="source-link" href="${esc(d.source_url)}" target="_blank" rel="noopener noreferrer">${t('sourceLabel')} ↗</a>`:'';
- return `<p class="lead">${esc(english?d.summary_en:d.summary_zh)}</p><section class="section"><h3>${t('facts')}</h3><div class="facts">${params}</div></section><section class="section"><h3>${t('atmo')}</h3>${atmo||`<p class="source-note">${t('noneAtmo')}</p>`}${atmo?`<p class="source-note">${t('atmoNote')}</p>`:''}</section>${landmarks?`<section class="section"><h3>${t('features')}</h3>${landmarks}</section>`:''}${articles?`<section class="section"><h3>${t('articles')}</h3>${articles}</section>`:''}<section class="section"><h3>${t('source')}</h3>${source}<a class="source-link" href="assets/credits.html" target="_blank" rel="noopener noreferrer">${t('textures')} ↗</a><p class="source-note">${lang==='zh'?'图景经过艺术化处理，物理参数为近似值。':'An artistic visualisation. Physical parameters are approximate.'}</p></section>`;
+ const source=/^https:\/\/(science\.)?nasa\.gov\//.test(d.source_url||'')?`<a class="source-link" href="${esc(d.source_url)}" target="_blank" rel="noopener noreferrer">${t('sourceLabel')} ${ARROW_ICON}</a>`:'';
+ return `<p class="lead">${esc(english?d.summary_en:d.summary_zh)}</p><section class="section"><h3>${t('facts')}</h3><div class="facts">${params}</div></section><section class="section"><h3>${t('atmo')}</h3>${atmo||`<p class="source-note">${t('noneAtmo')}</p>`}${atmo?`<p class="source-note">${t('atmoNote')}</p>`:''}</section>${landmarks?`<section class="section"><h3>${t('features')}</h3>${landmarks}</section>`:''}${articles?`<section class="section"><h3>${t('articles')}</h3>${articles}</section>`:''}<section class="section"><h3>${t('source')}</h3>${source}<a class="source-link" href="assets/credits.html" target="_blank" rel="noopener noreferrer">${t('textures')} ${ARROW_ICON}</a><p class="source-note">${lang==='zh'?'图景经过艺术化处理，物理参数为近似值。':'An artistic visualisation. Physical parameters are approximate.'}</p></section>`;
 }
 function closeDrawer(reset=true){
  const wasOpen=$('#drawer').classList.contains('open'),previousName=selectedBody?.name;$('#drawer').classList.remove('open');$('#drawer').setAttribute('aria-hidden','true');$('#drawer').inert=true;document.body.classList.remove('body-focused');selectedBody=null;renderPlanetBar();syncRoute(null);
@@ -105,7 +106,7 @@ function setLanguage(next){
  if(typeof labels!=='undefined')labels.forEach((label,i)=>label.textContent=displayName(bodies[i]));
 }
 function renderGuide(){
- $('#guideTitle').textContent=t('guideTitle');$('#guideGrid').innerHTML=guideItems[lang].map(item=>`<div class="guide-item"><div class="guide-key">${item[0]}</div><div><b>${item[1]}</b><span>${item[2]}</span></div></div>`).join('');$('#scaleNote').textContent=t('guideNote');$('#guideClose').innerHTML=`${t('guideClose')} <span aria-hidden="true">↗</span>`;
+ $('#guideTitle').textContent=t('guideTitle');$('#guideGrid').innerHTML=guideItems[lang].map(item=>`<div class="guide-item"><div class="guide-key">${item[0]}</div><div><b>${item[1]}</b><span>${item[2]}</span></div></div>`).join('');$('#scaleNote').textContent=t('guideNote');$('#guideClose').innerHTML=`${t('guideClose')} <span aria-hidden="true">${ARROW_ICON}</span>`;
 }
 function openModal(element,focus){modalReturnFocus=document.activeElement;element.hidden=false;element.classList.add('open');focus.focus({preventScroll:true})}
 function closeModal(element,restore=true){if(element.hidden)return;element.hidden=true;element.classList.remove('open');if(restore&&modalReturnFocus?.isConnected)modalReturnFocus.focus({preventScroll:true})}
@@ -116,7 +117,7 @@ function closeSearch(restore=true){closeModal($('#searchOverlay'),restore)}
 function search(){
  const query=$('#searchInput').value.trim().toLowerCase();
  searchItems=bodies.filter(b=>!query||`${b.name} ${b.en} ${bodyPinyin[b.name]}`.toLowerCase().includes(query));searchCursor=0;
- $('#results').innerHTML=searchItems.length?searchItems.map((b,index)=>`<button class="result ${index===0?'selected':''}" id="search-result-${bodyIds[b.name]}" data-result="${index}" role="option" aria-selected="${index===0}" style="${textureStyle(b)}"><i class="planet-swatch" aria-hidden="true"></i><span><b>${esc(displayName(b))}</b><small>${esc(lang==='zh'?b.en:b.name)} · ${b.au} AU</small></span><span class="result-arrow" aria-hidden="true">↗</span></button>`).join(''):`<p class="no-results">${t('noMatch')}</p>`;
+ $('#results').innerHTML=searchItems.length?searchItems.map((b,index)=>`<button class="result ${index===0?'selected':''}" id="search-result-${bodyIds[b.name]}" data-result="${index}" role="option" aria-selected="${index===0}" style="${textureStyle(b)}"><i class="planet-swatch" aria-hidden="true"></i><span><b>${esc(displayName(b))}</b><small>${esc(lang==='zh'?b.en:b.name)} · ${b.au} AU</small></span><span class="result-arrow" aria-hidden="true">${ARROW_ICON}</span></button>`).join(''):`<p class="no-results">${t('noMatch')}</p>`;
  $('#results').onclick=e=>{const row=e.target.closest('[data-result]');if(row)activateSearch(Number(row.dataset.result))};
  updateSearchActive();
 }
